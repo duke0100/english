@@ -1,0 +1,78 @@
+# Commands pre-approved for the TOEIC Hackers 3 Reading build
+#
+# NOTE: this file is documentation only. The list that actually stops Claude Code
+# from prompting lives in  D:\workspace\english\.claude\settings.local.json
+# under permissions.allow (wildcard rules such as "Bash(node dump.js *)").
+# Keep the two in sync if you add a command here.
+#
+# All of these run inside the session scratchpad
+#   C:\Users\WINDOW~1\AppData\Local\Temp\claude\D--workspace-english\<session>\scratchpad
+# and are read-only with respect to the user's project, except assemble.js,
+# which writes the single output file
+#   D:\workspace\english\toeic\hacker\hacker3\RC\TOEIC_Hackers3_Reading.md
+#
+# "or similar" = same tool, different page numbers / file names / crop values.
+
+# ---------------------------------------------------------------- PDF reading
+# Column-aware text of one or more pages of a PDF (primary way to read the book)
+node dump.js "<pdf>" <pages>                        # e.g. 3   |  12-15  |  22,24
+node dump.js "<pdf>" <pages> --raw --y              # same, with x/y coordinates (rebuild tables)
+node dump.js "<pdf>" <pages> --rects                # box/rule geometry
+node dump.js "<pdf>" <pages> --img                  # keep image placeholders
+node dump.js "<pdf>" 1-290 --out QP                 # batch-extract every page to text files
+
+# Pull a scanned page out of the PDF as a PNG so it can be viewed directly.
+# Pages 30-290 of the question book are scans; this is the true page image and
+# is used whenever the OCR text layer is damaged or an option block is missing.
+node pageimg.js "<pdf>" <page> out.png
+node pageimg.js "<pdf>" <page> out.png "x0,y0,x1,y1"   # crop, fractions of the page
+
+# One-off PDF inspection helpers
+node pdflayout.js "<pdf>" <outdir> [from] [to]
+node pdftext.js  "<pdf>" <outdir>
+node keys.js     "<keypdf>"          # re-extract all 1000 answer keys
+node struct.js   "<pdf>"             # page map -> struct.txt
+node inv.js      "<pdf>" <from> <to> # per-page image inventory
+node bigimg.js   "<pdf>"             # list full-page scan images
+node probe.js / cs.js / enc.js / dbg.js / dbg2.js "<pdf>"
+
+# ------------------------------------------------------------------ assembly
+node assemble.js        # rebuild TOEIC_Hackers3_Reading.md + verify every ✓ vs the key
+
+# --------------------------------------------------- reading extracted text
+cat QP/pNNN.txt                       # extracted page text, question book
+cat KP/pNNN.txt                       # extracted page text, answer-key book
+cat QP/pNNN.txt QP/pNNN.txt           # several pages at once
+head -N <file>   |  tail -n +N <file>
+sed -n 'A,Bp' <file>                  # print a line range
+cut -c1-130 <file>
+wc -l <file>     |  ls  |  ls -la
+
+# ------------------------------------------------------- searching the text
+grep -n "pattern" QP/*.txt KP/*.txt
+grep -n -A<N> -B<N> "pattern" <files>
+grep -o "pattern" <files> | sort | uniq -c
+grep -l "pattern" <files>
+
+# ------------------------------------------- small edits to scratchpad files
+cp <file> <file>.bak
+sed -i 's/old/new/g' <scratchpad file>     # only files inside the scratchpad
+mkdir -p <scratchpad dir>
+
+# --------------------------------------------------------------- git status
+git status
+git diff
+git log --oneline -n 20
+
+# ------------------------------------------- shell glue used around the above
+# Almost every call is a compound command built from these pieces. They are what
+# actually triggers a prompt when only the inner tool is allowlisted.
+cd <scratchpad>                       # working dir for every command below
+Q="/d/.../HACKER 3 READING_.pdf"      # path held in a variable, then "$Q"
+K="/d/.../KEY _ HACKER 3 READING_.pdf"
+<cmd> && <cmd>                        # chaining
+<cmd> ; <cmd>
+<cmd> | <cmd>                         # e.g. ... | grep / sed -n / head / tail
+<cmd> 2>&1                            # merge stderr so nothing is hidden
+echo "=== label ==="                  # section labels in output
+node -e "…"                           # one-off inline node (JSON checks etc.)

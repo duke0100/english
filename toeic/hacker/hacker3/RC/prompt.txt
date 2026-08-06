@@ -1,0 +1,170 @@
+# TASK
+
+Build (or extend) a bilingual TOEIC study document in Markdown from a Hackers practice-test book.
+
+## SOURCES
+- `KEY _ HACKER 3 READING_.pdf` — answer keys
+- `HACKER 3 READING_.pdf` — printed questions, answer options, and graphics
+- Output file: `<OUTPUT>.md`
+
+Read the PDF **pages as images**, not just the text layer. The text layer loses accent
+labels, chart values, maps, and floor plans. Where a page image is unreadable, say so —
+do not silently invent content (see FIDELITY below).
+
+## GLOBAL RULES
+
+1. `✓` goes immediately after `- (X) ` on the **correct** option, taken from the book's
+   answer key. Exactly one per question.
+2. **Bold** the words/phrases worth learning; put the Vietnamese meaning right after in
+   `*(...)*`.
+3. **Only gloss B2 level and above**, or genuinely hard paraphrases. Skip familiar A1–B1
+   words (`buy`, `office`, `manager`, `next week`, `expensive`). Aim for 1–3 glosses per
+   sentence. For several bolded phrases in a row, combine in order:
+   `*(nghĩa 1 / nghĩa 2 / nghĩa 3)*`.
+4. Keep the book's original English exactly. Fix only obvious OCR damage
+   (`T he` → `The`, `caf?` → `café`, stray `^ ||| ft`).
+5. Use the en dash `–` in ranges: `Questions 32–34`, `9 a.m. – 11 a.m.`
+6. Reproduce scripts and passages in full — never abridge.
+7. Answer keys go in one `## BẢNG ĐÁP ÁN` section at the top, one table per test,
+   5 answers per row: `|1 (B)|2 (C)|3 (C)|4 (A)|5 (D)|`
+
+## LISTENING — PART 1 to 4
+
+Organize **by PART first, then by TEST**: `# PART 3 — CONVERSATIONS` → `## TEST 01`,
+`## TEST 02`, … so the same question type repeats back to back and the patterns show.
+
+Accent label after the question number or heading:
+`[Mỹ]` 미국식 · `[Anh]` 영국식 · `[Úc]` 호주식 · `[Canada]` 캐나다식
+
+```
+**1** `[Mỹ]`
+- (A) They are **taking off** their running shoes. *(cởi ra)*
+- (B) ✓ They are **jogging** on a road. *(chạy bộ chậm)*
+
+**7** `[Canada→Mỹ]` Where did you put the **annual shareholder report**? *(báo cáo thường niên cho cổ đông)*
+- (A) The **reporter** from the *Arlington Times*.
+- (B) ✓ It's in this **folder**. *(cặp/thư mục tài liệu)*
+- (C) I finished **drafting** it yesterday. *(soạn thảo bản nháp)*
+
+### Questions 32–34 · conversation `[Canada→Mỹ]`
+**M:** Who am I supposed to **submit** this **corporate merger** article to? *(nộp / vụ sáp nhập doanh nghiệp)*
+**W:** You can send it to Arnold Smith. **Following** his **promotion** last week … *(sau khi / việc thăng chức)*
+
+**32.** What most likely is the man's **occupation**? *(nghề nghiệp)*
+- (A) A salesperson
+- (D) ✓ A **journalist** *(nhà báo)*
+```
+
+Heading type comes from the script's "refer to the following …" line: `conversation`,
+`conversation with three speakers`, `telephone message`, `advertisement`,
+`excerpt from a meeting`, `talk and map`, etc.
+
+For Part 2, flag homophone traps inline: `*(cánh buồm — bẫy đồng âm với* sale*)*`
+
+## READING — PART 5 and PART 6  ← different organization
+
+**Do NOT group these by test.** Group them **by grammar point**, pooling every test
+together, so all questions testing the same rule sit side by side. Each item carries a
+back-reference tag `[T03 · Q104]` so it can be found in the book.
+
+Grammar categories (use these; add only if something genuinely doesn't fit):
+
+| # | Category | Vietnamese |
+|---|---|---|
+| 1 | Word form | Từ loại (danh/động/tính/trạng) |
+| 2 | Verb tense | Thì động từ |
+| 3 | Subject–verb agreement | Hòa hợp chủ ngữ – động từ |
+| 4 | Active / passive voice | Thể chủ động – bị động |
+| 5 | Gerund vs infinitive | Danh động từ – động từ nguyên mẫu |
+| 6 | Participles | Phân từ (V-ing / V-ed) |
+| 7 | Pronouns | Đại từ |
+| 8 | Prepositions | Giới từ |
+| 9 | Conjunctions & clauses | Liên từ và mệnh đề |
+| 10 | Relative clauses | Mệnh đề quan hệ |
+| 11 | Comparatives & superlatives | So sánh |
+| 12 | Conditionals & subjunctive | Câu điều kiện – giả định |
+| 13 | Articles & quantifiers | Mạo từ – lượng từ |
+| 14 | Vocabulary & collocation | Từ vựng – kết hợp từ |
+| 15 | Transition words *(Part 6)* | Từ nối chuyển ý |
+| 16 | Sentence insertion *(Part 6)* | Chèn câu vào đoạn |
+
+Layout per item — the explanation is required:
+
+```
+## 1. Từ loại (Word form)
+
+**[T01 · Q101]** The board members were ------- impressed by the quarterly figures.
+- (A) deep
+- (B) ✓ deeply
+- (C) depth
+- (D) deepen
+
+> 📘 **Điểm ngữ pháp:** trạng từ bổ nghĩa cho phân từ làm tính từ.
+> **Vì sao đúng:** chỗ trống đứng trước `impressed` nên cần **trạng từ** → `deeply`.
+> **Bẫy:** (A) `deep` là trạng từ nhưng chỉ nghĩa khoảng cách (*dig deep*), không đi với
+> cảm xúc; (C) danh từ; (D) động từ.
+> *(impressed = có ấn tượng / quarterly figures = số liệu theo quý)*
+```
+
+Order items inside each category by test number. Start each category with one or two
+sentences naming the rule and the signal that triggers it, then the items. At the very
+top of Part 5, add an index listing each category with its question count.
+
+**Part 6 context handling.** A Part 6 question belongs to a passage, so when you move it
+into a grammar category, show **the sentence containing the blank plus the sentence
+before and after** — enough to answer — and tag it `[T04 · Q135 · đoạn 2]`. Sentence-
+insertion questions (category 16) need the whole passage, so print the full text there.
+Reprint each complete Part 6 passage once in an appendix `## PHỤ LỤC — Đoạn văn PART 6`,
+ordered by test, so nothing is lost.
+
+## PART 7
+Keep the by-test grouping (passage → questions). Gloss B2+ vocabulary in both the
+passage and the options, and add a `> 📘` line for inference and "NOT/true" questions
+explaining which line of the passage proves the answer.
+
+## GRAPHICS
+Place between the script/passage and the questions. Rebuild charts, schedules, maps, and
+forms as Markdown tables from the page image. In tables use `✔` for tick marks so it is
+never confused with the `✓` that marks a correct answer.
+
+After the options of any "Look at the graphic" question, add one line explaining in
+Vietnamese how the graphic combines with what was said:
+
+```
+> 💡 Nancy **không dự buổi chiều** → loại Mon và Thu. Người nói **vắng sáng thứ Ba** →
+> loại Tue. Còn lại **Wed** (Session 3, buổi sáng).
+```
+
+These questions almost always need **two** facts joined, so state both.
+
+## FIDELITY — do not fake source content
+
+- If a graphic is too damaged to read, rebuild what you can and add
+  `> ⚠️ Hình tái dựng từ bản scan mờ — nên đối chiếu sách gốc (trang XX).`
+- If a question stem, option, or whole page is **missing from the scan**, do not invent
+  replacement text and present it as the book's. Mark every reconstructed question with
+  `🔶` right after its number and explain the symbol in the header legend. Reconstructing
+  a question backwards from its answer letter produces something that looks authentic but
+  is not — it must always be visibly tagged.
+- Report every gap in your final summary with test and question numbers.
+
+## HEADER
+Open the file with: scope covered, source PDF names, and a legend for
+`✓ ✔ 🔶 ⚠️ 💡`, the italic-gloss convention, and the accent labels.
+
+## SELF-CHECK before finishing
+1. Question numbers continuous with no gaps or duplicates; count matches the book.
+2. Part 1/3/4/5/6/7 have 4 options, Part 2 has 3.
+3. Exactly one `✓` per question, every one matching the answer key — verify all of them,
+   not a sample.
+4. OCR can scramble printed order (50–52 before 47–49); re-sort ascending and confirm
+   each question sits with its own script/passage.
+5. Every Part 5/6 item appears in exactly one grammar category, and category counts sum
+   to the total.
+6. Report: totals, categories used, and every 🔶 / ⚠️ location.
+
+Two notes on choices I made in it, since you may want to adjust them.
+
+Part 6 has a real tension with grammar-type grouping: a question is only answerable inside its passage, but grouping by rule pulls it out. I resolved it by showing a three-sentence window at the item plus reprinting the full passages in an appendix. If you'd rather keep Part 6 whole and only regroup Part 5, delete categories 15–16 and the appendix paragraph.
+
+The fidelity section exists because of what happened with this Listening file: test 04's questions 65–82 are missing from your scan, and the agent building it reconstructed 18 questions backwards from the answer letters. They read as genuine book questions. That's why the 🔶 tag and the explicit "do not reconstruct silently" rule are in the prompt — worth keeping when you run it on the Reading book.
