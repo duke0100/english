@@ -1,43 +1,52 @@
-# Commands pre-approved for the TOEIC Hackers 3 Reading build
+# Commands pre-approved for the TOEIC Hackers book builds
 #
 # NOTE: this file is documentation only. The list that actually stops Claude Code
 # from prompting lives in  D:\workspace\english\.claude\settings.local.json
-# under permissions.allow (wildcard rules such as "Bash(node dump.js *)").
-# Keep the two in sync if you add a command here.
+# under permissions.allow. Keep the two in sync if you add a command here.
 #
-# All of these run inside the session scratchpad
+# The toolkit now lives permanently in the repo:
+#   D:\workspace\english\toeic\hacker\_toolkit\        (see its README.md)
+# Scripts are invoked BY PATH, so the allowlist relies on the single wildcard
+#   "Bash(node *)"
+# rather than per-script rules. The old "Bash(node dump.js *)" style rules only
+# matched a bare filename and were removed once the toolkit moved.
+#
+# Working files go in the session scratchpad
 #   C:\Users\WINDOW~1\AppData\Local\Temp\claude\D--workspace-english\<session>\scratchpad
-# and are read-only with respect to the user's project, except assemble.js,
-# which writes the single output file
-#   D:\workspace\english\toeic\hacker\hacker3\RC\TOEIC_Hackers3_Reading.md
+# Reads/writes there are allowed session-independently via
+#   Read/Write/Edit(//c/Users/WINDOW~1/AppData/Local/Temp/claude/**)
+# Writes into the project are limited to the TOEIC tree:
+#   Write/Edit(//d/workspace/english/toeic/**)
 #
 # "or similar" = same tool, different page numbers / file names / crop values.
 
 # ---------------------------------------------------------------- PDF reading
+TK=/d/workspace/english/toeic/hacker/_toolkit    # path held in a variable
+
 # Column-aware text of one or more pages of a PDF (primary way to read the book)
-node dump.js "<pdf>" <pages>                        # e.g. 3   |  12-15  |  22,24
-node dump.js "<pdf>" <pages> --raw --y              # same, with x/y coordinates (rebuild tables)
-node dump.js "<pdf>" <pages> --rects                # box/rule geometry
-node dump.js "<pdf>" <pages> --img                  # keep image placeholders
-node dump.js "<pdf>" 1-290 --out QP                 # batch-extract every page to text files
+node $TK/dump.js "<pdf>" <pages>                    # e.g. 3   |  12-15  |  22,24
+node $TK/dump.js "<pdf>" <pages> --raw --y          # same, with x/y coords (rebuild tables)
+node $TK/dump.js "<pdf>" <pages> --rects            # box/rule geometry
+node $TK/dump.js "<pdf>" <pages> --img              # keep image placeholders
+node $TK/pdftext.js "<pdf>" QP                      # batch-extract every page to text files
 
 # Pull a scanned page out of the PDF as a PNG so it can be viewed directly.
-# Pages 30-290 of the question book are scans; this is the true page image and
-# is used whenever the OCR text layer is damaged or an option block is missing.
-node pageimg.js "<pdf>" <page> out.png
-node pageimg.js "<pdf>" <page> out.png "x0,y0,x1,y1"   # crop, fractions of the page
+# Most pages of these books are scans; this is the true page image and is used
+# whenever the OCR text layer is damaged or a block is missing.
+node $TK/pageimg.js "<pdf>" <page> out.png
+node $TK/pageimg.js "<pdf>" <page> out.png "x0,y0,x1,y1"   # crop, fractions of the page
 
 # One-off PDF inspection helpers
-node pdflayout.js "<pdf>" <outdir> [from] [to]
-node pdftext.js  "<pdf>" <outdir>
-node keys.js     "<keypdf>"          # re-extract all 1000 answer keys
-node struct.js   "<pdf>"             # page map -> struct.txt
-node inv.js      "<pdf>" <from> <to> # per-page image inventory
-node bigimg.js   "<pdf>"             # list full-page scan images
-node probe.js / cs.js / enc.js / dbg.js / dbg2.js "<pdf>"
+node $TK/pdfinfo.js  "<pdf>"          # page count, encryption
+node $TK/struct.js   "<pdf>"          # page map -> struct.txt
+node $TK/keys.js     "<keypdf>"       # extract all answer keys -> keys_all.json
+node $TK/pdflayout.js "<pdf>" <outdir> [from] [to]
+node $TK/inv.js      "<pdf>" <from> <to>   # per-page image inventory
+node $TK/bigimg.js   "<pdf>"               # list full-page scan images
+node $TK/probe.js / cs.js / enc.js / dbg.js / dbg2.js "<pdf>"
 
 # ------------------------------------------------------------------ assembly
-node assemble.js        # rebuild TOEIC_Hackers3_Reading.md + verify every ✓ vs the key
+node $TK/assemble.js <partsDir> <out.md> <keys.json>   # rebuild + verify every ✓ vs the key
 
 # --------------------------------------------------- reading extracted text
 cat QP/pNNN.txt                       # extracted page text, question book
@@ -54,10 +63,12 @@ grep -n -A<N> -B<N> "pattern" <files>
 grep -o "pattern" <files> | sort | uniq -c
 grep -l "pattern" <files>
 
-# ------------------------------------------- small edits to scratchpad files
-cp <file> <file>.bak
-sed -i 's/old/new/g' <scratchpad file>     # only files inside the scratchpad
-mkdir -p <scratchpad dir>
+# --------------------------------------- file shuffling (now wildcarded)
+cp <src> <dst>                        # e.g. preserving fragments into _parts/
+mv <src> <dst>
+rm <file>                             # NB: Bash rules cannot be path-scoped
+sed -i 's/old/new/g' <file>
+mkdir -p <dir>
 
 # --------------------------------------------------------------- git status
 git status
@@ -67,9 +78,9 @@ git log --oneline -n 20
 # ------------------------------------------- shell glue used around the above
 # Almost every call is a compound command built from these pieces. They are what
 # actually triggers a prompt when only the inner tool is allowlisted.
-cd <scratchpad>                       # working dir for every command below
-Q="/d/.../HACKER 3 READING_.pdf"      # path held in a variable, then "$Q"
-K="/d/.../KEY _ HACKER 3 READING_.pdf"
+cd <dir>                              # working dir for every command below
+Q="/d/.../QUESTION BOOK.pdf"          # path held in a variable, then "$Q"
+K="/d/.../KEY BOOK.pdf"
 <cmd> && <cmd>                        # chaining
 <cmd> ; <cmd>
 <cmd> | <cmd>                         # e.g. ... | grep / sed -n / head / tail

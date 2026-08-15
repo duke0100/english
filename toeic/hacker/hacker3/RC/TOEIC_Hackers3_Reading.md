@@ -2,7 +2,7 @@
 
 **Nguồn:** *HACKER 3 READING_.pdf* (đề: câu hỏi, phương án, hình) và *KEY _ HACKER 3 READING_.pdf* (đáp án + bản dịch chính thức, dùng để đối chiếu khi lớp text của đề bị mất ký tự).
 
-**Phạm vi hiện có:** PART 5–6 — TEST 01, 02, 03, 04, 05, 06, 07, 08, 09 · PART 7 — TEST 01, 02, 03, 04, 05, 06, 07, 08, 09. Đáp án của **cả 10 test** đều đã có ở bảng dưới.
+**Phạm vi hiện có:** PART 5–6 — TEST 01, 02, 03, 04, 05, 06, 07, 08, 09, 10 · PART 7 — TEST 01, 02, 03, 04, 05, 06, 07, 08, 09, 10. Đáp án của **cả 10 test** đều đã có ở bảng dưới.
 
 **Cách đọc tài liệu:**
 - **PART 5 và PART 6 không xếp theo test** mà **gộp theo điểm ngữ pháp**, để các câu cùng một quy tắc nằm cạnh nhau. Mỗi câu có thẻ truy vết `[T03 · Q104]` để tìm lại trong sách; câu PART 6 thêm số đoạn: `[T04 · Q135 · đoạn 2]`.
@@ -278,29 +278,29 @@
 
 | # | Điểm ngữ pháp | Số câu |
 |---|---|---|
-| 1 | Từ loại (Word form) | 56 |
-| 2 | Thì động từ (Verb tense) | 16 |
+| 1 | Từ loại (Word form) | 62 |
+| 2 | Thì động từ (Verb tense) | 19 |
 | 3 | Hòa hợp chủ ngữ – động từ (Subject–verb agreement) | 3 |
-| 4 | Thể chủ động – bị động (Active / passive voice) | 12 |
-| 5 | Danh động từ – động từ nguyên mẫu (Gerund vs infinitive) | 11 |
-| 6 | Phân từ (V-ing / V-ed) (Participles) | 18 |
-| 7 | Đại từ (Pronouns) | 11 |
-| 8 | Giới từ (Prepositions) | 33 |
-| 9 | Liên từ và mệnh đề (Conjunctions & clauses) | 22 |
+| 4 | Thể chủ động – bị động (Active / passive voice) | 13 |
+| 5 | Danh động từ – động từ nguyên mẫu (Gerund vs infinitive) | 12 |
+| 6 | Phân từ (V-ing / V-ed) (Participles) | 21 |
+| 7 | Đại từ (Pronouns) | 13 |
+| 8 | Giới từ (Prepositions) | 38 |
+| 9 | Liên từ và mệnh đề (Conjunctions & clauses) | 23 |
 | 10 | Mệnh đề quan hệ (Relative clauses) | 12 |
-| 11 | So sánh (Comparatives & superlatives) | 4 |
+| 11 | So sánh (Comparatives & superlatives) | 5 |
 | 12 | Câu điều kiện – giả định (Conditionals & subjunctive) | 2 |
-| 13 | Mạo từ – lượng từ (Articles & quantifiers) | 8 |
-| 14 | Từ vựng – kết hợp từ (Vocabulary & collocation) | 159 |
-| 15 | Từ nối chuyển ý *(Part 6)* (Transition words) | 11 |
-| 16 | Chèn câu vào đoạn *(Part 6)* (Sentence insertion) | 36 |
-| | **Tổng** | **414** |
+| 13 | Mạo từ – lượng từ (Articles & quantifiers) | 10 |
+| 14 | Từ vựng – kết hợp từ (Vocabulary & collocation) | 175 |
+| 15 | Từ nối chuyển ý *(Part 6)* (Transition words) | 12 |
+| 16 | Chèn câu vào đoạn *(Part 6)* (Sentence insertion) | 40 |
+| | **Tổng** | **460** |
 
 ## 1. Từ loại (Word form)
 
 Chỗ trống cần **danh từ / động từ / tính từ / trạng từ** nào là do **vị trí trong câu** quyết định. Dấu hiệu: bốn phương án là bốn dạng của cùng một gốc từ (`deep – deeply – depth – deepen`). Cách làm: xác định chỗ trống làm chức năng gì (chủ ngữ, tân ngữ, bổ nghĩa cho ai) rồi chọn dạng tương ứng.
 
-*56 câu.*
+*62 câu.*
 
 **[T01 · Q101]** Delegates attending the international trade convention were provided with overnight ------- at Hotel Boswick.
 - (A) accommodated
@@ -935,13 +935,79 @@ Chỗ trống cần **danh từ / động từ / tính từ / trạng từ** nà
 > **Bẫy:** (C) `supportable` = có thể chống đỡ/biện hộ được, lại không đi với `of`; (B), (D) là động từ — không đứng sau `are` được.
 > *(be supportive of = ủng hộ / in consideration of = xét tới / approve = phê duyệt)*
 
+**[T10 · Q101]** Body-Wise Gym ------- closes for minor renovations and cleaning.
+- (A) periodic
+- (B) periodical
+- (C) period
+- (D) ✓ periodically
+
+> 📘 **Điểm ngữ pháp:** giữa chủ ngữ và động từ `closes` cần một **trạng từ** chỉ tần suất.
+> **Vì sao đúng:** phòng tập **định kỳ** đóng cửa để sửa sang → `periodically closes` ⇒ (D).
+> **Bẫy:** (A) `periodic` và (B) `periodical` đều là **tính từ** (`periodical` còn là danh từ chỉ tạp chí ra định kỳ); (C) `period` là danh từ.
+> *(periodically = định kỳ / minor renovations = sửa sang nhỏ)*
+
+**[T10 · Q105]** Colorlast makes a line of outdoor paints that are ------- formulated to withstand years of exposure to sun and precipitation.
+- (A) special
+- (B) specialty
+- (C) ✓ specially
+- (D) specialization
+
+> 📘 **Điểm ngữ pháp:** cần **trạng từ** bổ nghĩa cho phân từ `formulated`.
+> **Vì sao đúng:** sơn được pha chế **đặc biệt** để chịu được nắng mưa nhiều năm → `specially formulated` ⇒ (C).
+> **Bẫy:** (A) `special` là tính từ — không bổ nghĩa được cho `formulated`; (B), (D) là danh từ.
+> *(specially formulated = được pha chế riêng / withstand = chịu được / exposure = sự phơi ra ngoài / precipitation = mưa, tuyết)*
+
+**[T10 · Q113]** According to the Ministry of the Environment, updated ------- on water consumption will go into effect next month.
+- (A) regulation
+- (B) regulate
+- (C) regulating
+- (D) ✓ regulations
+
+> 📘 **Điểm ngữ pháp:** chỗ trống là **chủ ngữ** của câu, cần **danh từ**; động từ `will go` không cho biết số, nhưng `regulation` ở nghĩa "quy định cụ thể" là danh từ **đếm được** nên phải có mạo từ hoặc ở số nhiều.
+> **Vì sao đúng:** các **quy định** mới về việc dùng nước sẽ có hiệu lực từ tháng sau → `updated regulations` ⇒ (D).
+> **Bẫy:** (A) `regulation` số ít mà **không có mạo từ** là sai; (B) động từ; (C) phân từ.
+> *(regulation = quy định / go into effect = có hiệu lực / consumption = mức tiêu thụ)*
+
+**[T10 · Q115]** Torres Architecture, the agency that planned the Steadman Tower, won an award from Building Life Global for its ------- design.
+- (A) distinction
+- (B) distinctiveness
+- (C) ✓ distinctive
+- (D) distinctively
+
+> 📘 **Điểm ngữ pháp:** giữa từ sở hữu `its` và danh từ `design` cần một **tính từ**.
+> **Vì sao đúng:** công ty đoạt giải nhờ thiết kế **độc đáo** → `its distinctive design` ⇒ (C).
+> **Bẫy:** (A), (B) là danh từ — đặt cạnh `design` sẽ thành hai danh từ chồng nhau; (D) là trạng từ.
+> *(distinctive = độc đáo, có nét riêng / distinction = sự khác biệt, danh hiệu / agency = công ty, hãng)*
+
+**[T10 · Q126]** The *Chicago Herald* gives a 40 percent discount to existing ------- who sign up for access to its online edition.
+- (A) subscription
+- (B) subscribed
+- (C) subscribes
+- (D) ✓ subscribers
+
+> 📘 **Điểm ngữ pháp:** sau tính từ `existing` cần một **danh từ**, và danh từ đó phải chỉ **người** vì mệnh đề quan hệ theo sau dùng `**who**`.
+> **Vì sao đúng:** báo giảm giá cho những **người đang đặt báo** → `existing subscribers who sign up ...` ⇒ (D).
+> **Bẫy:** (A) `subscription` là danh từ chỉ **việc đặt mua**, không đi với `who`; (B) phân từ; (C) động từ chia thì.
+> *(subscriber = người đặt mua dài hạn / existing = hiện có / online edition = bản điện tử)*
+
+**[T10 · Q127]** Sunny River Vacations endeavors to satisfy every customer by personalizing travel details to ensure that each trip is -------.
+- (A) memory
+- (B) ✓ memorable
+- (C) memorizing
+- (D) memorials
+
+> 📘 **Điểm ngữ pháp:** sau động từ nối `is` cần một **tính từ** làm bổ ngữ cho chủ ngữ `each trip`.
+> **Vì sao đúng:** công ty cá nhân hoá hành trình để mỗi chuyến đi đều **đáng nhớ** → `each trip is memorable` ⇒ (B).
+> **Bẫy:** (A) `memory` và (D) `memorials` là danh từ — một chuyến đi không phải là "ký ức" hay "đài tưởng niệm"; (C) `memorizing` = đang ghi nhớ (chủ động), sai nghĩa.
+> *(memorable = đáng nhớ / endeavor to = nỗ lực để / personalize = cá nhân hoá)*
+
 ---
 
 ## 2. Thì động từ (Verb tense)
 
 Chọn thì theo **mốc thời gian** trong câu hoặc trong các câu lân cận. Dấu hiệu: `next week`, `last month`, `by now`, `from now until ...`, hoặc một mệnh đề khác đã chỉ rõ thời điểm. Cách làm: tìm trạng ngữ thời gian trước, rồi mới xét dạng động từ.
 
-*16 câu.*
+*19 câu.*
 
 **[T01 · Q105]** The Trescott Chamber of Commerce ------- local businessman Brian Larue at a ceremony next week.
 - (A) was honoring
@@ -1141,6 +1207,44 @@ Chọn thì theo **mốc thời gian** trong câu hoặc trong các câu lân c�
 > **Bẫy:** (A) tương lai và (B), (C) mang nghĩa **đang diễn ra** — đều mâu thuẫn với việc kết quả đã được công bố và dự án đã được phê duyệt.
 > *(vote on = bỏ phiếu về / sports complex = khu liên hợp thể thao / be concluded = được kết luận / commence = khởi công)*
 
+**[T10 · Q103]** The faulty card reader located at the side entrance of Carter & Associates' headquarters ------- in the coming week.
+- (A) was repaired
+- (B) repairs
+- (C) ✓ will be repaired
+- (D) has been repaired
+
+> 📘 **Điểm ngữ pháp:** trạng ngữ `in the **coming** week` ấn định mốc **tương lai**, đồng thời máy đọc thẻ là vật **được** sửa nên phải ở dạng bị động.
+> **Vì sao đúng:** máy sẽ **được sửa** trong tuần tới → `will be repaired` ⇒ (C).
+> **Bẫy:** (A) quá khứ và (D) hiện tại hoàn thành đều nói việc **đã** sửa xong; (B) `repairs` là chủ động — máy không tự đi sửa.
+> *(faulty = bị lỗi, hỏng / card reader = máy đọc thẻ / headquarters = trụ sở chính)*
+
+**[T10 · Q134 · đoạn 1]** *(advertisement)*
+> Furthermore, if you need to remove large (133) ------- items such as furniture or appliances, the Wimberley's staff can do this for a small additional fee. We (134) ------- your home at whatever time is most convenient for you! So, if you're interested, please call us at 555-9190.
+
+- (A) are visiting
+- (B) had visited
+- (C) have visited
+- (D) ✓ can visit
+
+> 📘 **Điểm ngữ pháp:** cả quảng cáo hướng tới **dịch vụ sẽ làm cho khách trong tương lai**, nên cần động từ khiếm khuyết chỉ **khả năng**, không phải thì quá khứ hay hiện tại hoàn thành.
+> **Vì sao đúng:** "Chúng tôi **có thể đến** nhà bạn vào bất cứ lúc nào bạn tiện" → `We can visit your home at whatever time is most convenient for you` ⇒ (D). Câu trước cũng dùng `the staff **can** do this`.
+> **Bẫy:** (B) quá khứ hoàn thành và (C) hiện tại hoàn thành đều nói việc **đã** đến; (A) hiện tại tiếp diễn ám chỉ một lịch hẹn **đã chốt**, mâu thuẫn với `at whatever time is most convenient for you`.
+> *(convenient = thuận tiện / additional fee = phụ phí)*
+
+**[T10 · Q143 · đoạn 4]** *(announcement)*
+> **CALL FOR PAPERS**
+> The Department of Sociology at the University of Northern Wisconsin (143) ------- an academic conference on social transformation in the Midwestern United States from June 7 to 9. (144) -------.
+
+- (A) can be held
+- (B) has held
+- (C) will be held
+- (D) ✓ is holding
+
+> 📘 **Điểm ngữ pháp:** hội thảo **chưa diễn ra** (bài viết còn đang được nhận đến `before May 1`) nhưng đã có lịch cụ thể ⇒ dùng **hiện tại tiếp diễn chỉ kế hoạch tương lai**; đồng thời khoa là bên **đứng ra tổ chức** nên phải ở thể chủ động.
+> **Vì sao đúng:** `The Department ... **is holding** an academic conference ... from June 7 to 9` ⇒ (D).
+> **Bẫy:** (A), (C) là **bị động**, nhưng ngay sau chỗ trống còn tân ngữ `an academic conference` nên không dùng được; (B) hiện tại hoàn thành nói việc đã tổ chức xong.
+> *(hold a conference = tổ chức hội thảo / call for papers = lời mời gửi bài tham luận / social transformation = chuyển biến xã hội)*
+
 ---
 
 ## 3. Hòa hợp chủ ngữ – động từ (Subject–verb agreement)
@@ -1190,7 +1294,7 @@ Chọn thì theo **mốc thời gian** trong câu hoặc trong các câu lân c�
 
 Xét xem chủ ngữ **tự thực hiện** hành động (chủ động) hay **bị/được** tác động (bị động). Dấu hiệu: có `be` trước chỗ trống, hoặc sau chỗ trống không còn tân ngữ. Cách làm: hỏi "ai làm việc này?".
 
-*12 câu.*
+*13 câu.*
 
 **[T01 · Q115]** A fee of $100 will be ------- to office rental payments that are more than two weeks late.
 - (A) ✓ applied
@@ -1328,13 +1432,24 @@ Xét xem chủ ngữ **tự thực hiện** hành động (chủ động) hay **
 > **Bẫy:** (A), (D) là chủ động; (B) `to announce` không làm được động từ chính của câu.
 > *(merger = vụ sáp nhập / press conference = họp báo)*
 
+**[T10 · Q118]** If Jennifer hits all of her sales targets for the next quarter, there is a good chance she will -------.
+- (A) promote
+- (B) have promoted
+- (C) ✓ be promoted
+- (D) be promoting
+
+> 📘 **Điểm ngữ pháp:** cô Jennifer là người **được** thăng chức chứ không tự thăng chức cho ai ⇒ **thể bị động**; sau chỗ trống cũng không còn tân ngữ.
+> **Vì sao đúng:** nếu đạt chỉ tiêu thì nhiều khả năng cô **sẽ được thăng chức** → `she will be promoted` ⇒ (C).
+> **Bẫy:** (A), (B), (D) đều là chủ động — `promote` chủ động có nghĩa "thăng chức **cho ai**" hoặc "quảng bá cái gì", đều đòi tân ngữ.
+> *(be promoted = được thăng chức / hit a target = đạt chỉ tiêu / quarter = quý)*
+
 ---
 
 ## 5. Danh động từ – động từ nguyên mẫu (Gerund vs infinitive)
 
 Một số động từ và danh từ chỉ đi với `to + V`, số khác chỉ đi với `V-ing`. Dấu hiệu: chỗ trống đứng sau `opportunity`, `plan`, `decide`, `be used to`, `look forward to`… Cách làm: nhớ theo cụm, không suy luận theo nghĩa.
 
-*11 câu.*
+*12 câu.*
 
 **[T01 · Q113]** The public speaking course presents trainees with opportunities ------- themselves in front of a group.
 - (A) will express
@@ -1463,13 +1578,24 @@ Một số động từ và danh từ chỉ đi với `to + V`, số khác chỉ
 > **Bẫy:** (A), (B) là động từ chia thì — câu sẽ có hai động từ chính mà không có liên từ; (C) danh từ `enrollment` không diễn tả được mục đích và cũng không đi thẳng với `in` theo nghĩa này.
 > *(line up = xếp hàng / enroll in = ghi danh vào / symposium = hội thảo chuyên đề)*
 
+**[T10 · Q104]** The accounting department revised the estimates for expenditures after ------- news that the budget would be changed.
+- (A) to receive
+- (B) receives
+- (C) receiver
+- (D) ✓ receiving
+
+> 📘 **Điểm ngữ pháp:** `after` ở đây là **giới từ** nên phải đi với **danh động từ (V-ing)**; ngay sau chỗ trống còn tân ngữ `news` nên chỉ V-ing mới nhận được.
+> **Vì sao đúng:** phòng kế toán sửa lại dự toán **sau khi nhận được** tin ngân sách sẽ thay đổi → `after receiving news that ...` ⇒ (D).
+> **Bẫy:** (C) `receiver` là danh từ chỉ **người/thiết bị nhận**, không nhận được tân ngữ; (A) `to receive` không đứng sau giới từ; (B) là động từ chia thì.
+> *(estimate = bản dự toán / expenditure = khoản chi / budget = ngân sách)*
+
 ---
 
 ## 6. Phân từ (V-ing / V-ed) (Participles)
 
 Phân từ làm **định ngữ** cho danh từ: V-ing mang nghĩa **chủ động / gây ra**, V-ed mang nghĩa **bị động / bị tác động**. Dấu hiệu: câu đã có động từ chính, chỗ trống nằm cạnh một danh từ. Cách làm: hỏi danh từ đó **làm** hay **bị làm**.
 
-*18 câu.*
+*21 câu.*
 
 **[T01 · Q103]** Beginning next week, Zumwalt, Inc.'s new smartphone will be available for purchase at ------- retailers across Korea and Japan.
 - (A) authorizing
@@ -1678,13 +1804,48 @@ Phân từ làm **định ngữ** cho danh từ: V-ing mang nghĩa **chủ độ
 > **Bẫy:** (B) `attended` mang nghĩa **bị động** — sinh viên không "bị dự"; (A) là động từ chia thì; (D) `attendance` là danh từ, đặt cạnh `students` sẽ thành hai danh từ chồng nhau vô nghĩa.
 > *(attend = tham dự / attendance = sự có mặt / applicable to = áp dụng được cho / field of learning = lĩnh vực học thuật)*
 
+**[T10 · Q121]** After years of difficulty doing it herself, Ms. Pace had her taxes ------- through an accounting agency.
+- (A) filing
+- (B) file
+- (C) ✓ filed
+- (D) to file
+
+> 📘 **Điểm ngữ pháp:** cấu trúc `have + tân ngữ + **phân từ quá khứ**` = nhờ ai đó làm giúp việc gì (nghĩa bị động).
+> **Vì sao đúng:** `her taxes` là thứ **được** khai chứ không tự khai → `had her taxes **filed** through an accounting agency` ⇒ (C).
+> **Bẫy:** (A) `filing` mang nghĩa chủ động; (B), (D) không dùng được sau `have + tân ngữ` theo mẫu này.
+> *(file taxes = khai thuế / accounting agency = công ty dịch vụ kế toán)*
+
+**[T10 · Q128]** Rowan Training Center has added more business classes, which brings the total number of ------- sessions to nearly double that of last year.
+- (A) schedule
+- (B) ✓ scheduled
+- (C) schedules
+- (D) scheduling
+
+> 📘 **Điểm ngữ pháp:** cần **phân từ quá khứ** làm định ngữ cho `sessions` — các buổi học **được** xếp lịch, mang nghĩa bị động.
+> **Vì sao đúng:** tổng số buổi học **đã được xếp lịch** nay gần gấp đôi năm ngoái → `the total number of scheduled sessions` ⇒ (B).
+> **Bẫy:** (D) `scheduling` mang nghĩa chủ động — buổi học không tự xếp lịch; (A), (C) là danh từ/động từ, đặt cạnh `sessions` sẽ vô nghĩa.
+> *(scheduled = đã được xếp lịch / session = buổi học / nearly double = gần gấp đôi)*
+
+**[T10 · Q138 · đoạn 2]** *(e-mail)*
+> Could you please try this method first? If you continue to have a problem, please contact a service center (138) ------- on our Web site. Thank you for writing, and I hope I have been of service to you.
+
+- (A) lists
+- (B) listing
+- (C) ✓ listed
+- (D) to list
+
+> 📘 **Điểm ngữ pháp:** câu đã có động từ chính `contact`, nên chỗ trống là **phân từ** rút gọn mệnh đề quan hệ bổ nghĩa cho `a service center`; trung tâm là thứ **được** liệt kê nên dùng phân từ quá khứ.
+> **Vì sao đúng:** `a service center **listed** on our Web site` = `a service center **that is listed** on our Web site` ⇒ (C).
+> **Bẫy:** (B) `listing` mang nghĩa chủ động — trung tâm không tự liệt kê nó; (A) là động từ chia thì; (D) `to list` sẽ thành cụm chỉ mục đích, sai nghĩa.
+> *(be listed on = được liệt kê trên / be of service to = giúp ích được cho)*
+
 ---
 
 ## 7. Đại từ (Pronouns)
 
 Chọn đại từ đúng **cách** (chủ ngữ / tân ngữ / sở hữu / phản thân) và đúng **đối tượng thay thế**. Dấu hiệu: bốn phương án là các dạng của cùng một đại từ, hoặc `those / these / that`. Cách làm: tìm danh từ mà đại từ thay cho, rồi xét vị trí ngữ pháp.
 
-*11 câu.*
+*13 câu.*
 
 **[T01 · Q123]** Although a graduate degree is a requirement for the position, none of ------- who responded to the job announcement have one.
 - (A) they
@@ -1811,13 +1972,37 @@ Chọn đại từ đúng **cách** (chủ ngữ / tân ngữ / sở hữu / ph�
 > **Bẫy:** (B) `by him` sẽ hiểu là "do ông ấy làm" (tác nhân của câu bị động) — sai hẳn nghĩa; (A) đại từ chủ ngữ; (C) đại từ sở hữu.
 > *(by oneself = một mình / potential client = khách hàng tiềm năng)*
 
+**[T10 · Q120]** Gigantica Studio's new action movie has some scenes which may be inappropriate for ------- under the age of 15.
+- (A) whoever
+- (B) them
+- (C) these
+- (D) ✓ those
+
+> 📘 **Điểm ngữ pháp:** đại từ `those` mang nghĩa "**những người**" khi có cụm bổ nghĩa theo sau — ở đây là cụm giới từ `under the age of 15`.
+> **Vì sao đúng:** một số cảnh không phù hợp với **những người** dưới 15 tuổi → `inappropriate for those under the age of 15` ⇒ (D).
+> **Bẫy:** (B) `them` phải trỏ về một danh từ **đã nhắc trước đó**, mà câu không có; (C) `these` chỉ **vật ở gần**, không dùng cho "những người ... "; (A) `whoever` mở đầu một mệnh đề, cần động từ theo sau.
+> *(those + cụm bổ nghĩa = những người ... / inappropriate for = không phù hợp với / scene = cảnh phim)*
+
+**[T10 · Q135 · đoạn 2]** *(e-mail)*
+> In your e-mail, you stated that the compartment does not close properly. (135) ------- issue was brought up by other customers in the past. Our technicians have since discovered what the problem is.
+
+- (A) ✓ This
+- (B) Their
+- (C) The other
+- (D) Such
+
+> 📘 **Điểm ngữ pháp:** từ hạn định đứng trước danh từ số ít `issue` phải **trỏ ngược về** sự việc vừa nêu ở câu trước.
+> **Vì sao đúng:** `**This** issue` = chính vấn đề ngăn tủ không đóng khít mà bà vừa nói ⇒ (A).
+> **Bẫy:** (B) `Their` cần một chủ sở hữu đã được nhắc tới; (C) `The other issue` hàm ý đã có một vấn đề khác trước đó — nhưng đây là vấn đề **duy nhất**; (D) `Such` phải viết `Such **an** issue` mới đúng ngữ pháp.
+> *(compartment = ngăn (tủ lạnh) / bring up = nêu ra / technician = kỹ thuật viên)*
+
 ---
 
 ## 8. Giới từ (Prepositions)
 
 Giới từ được chọn theo **nghĩa** (thời gian, vị trí, chủ đề, phương tiện) hoặc theo **cụm cố định**. Dấu hiệu: bốn phương án đều là giới từ/cụm giới từ. Cách làm: xác định quan hệ giữa hai phần mà giới từ nối.
 
-*33 câu.*
+*38 câu.*
 
 **[T01 · Q112]** Though Bruce Guthrie's concert is planned ------- August 1, the organizers have said that this is subject to change.
 - (A) at
@@ -2194,13 +2379,70 @@ Giới từ được chọn theo **nghĩa** (thời gian, vị trí, chủ đề
 > **Bẫy:** (A) `even though` là **liên từ**, cần mệnh đề; (B) `up until` chỉ mốc **thời gian**; (C) `in honor of` = để vinh danh — sai nghĩa hẳn.
 > *(along with = cùng với / promising candidate = ứng viên có triển vọng / research and development = nghiên cứu và phát triển)*
 
+**[T10 · Q102]** The reporter forecasted sunny weather ------- the Midwestern region for tomorrow.
+- (A) among
+- (B) ✓ throughout
+- (C) without
+- (D) until
+
+> 📘 **Điểm ngữ pháp:** giới từ chỉ phạm vi **khắp một vùng**.
+> **Vì sao đúng:** trời nắng **khắp** vùng Trung Tây → `sunny weather throughout the Midwestern region` ⇒ (B).
+> **Bẫy:** (A) `among` dùng cho **nhiều cá thể tách rời** (`among the students`), không dùng cho một vùng liền khối; (D) `until` chỉ thời gian; (C) `without` = không có.
+> *(throughout = khắp / forecast = dự báo / region = vùng, khu vực)*
+
+**[T10 · Q108]** Dr. Watanabe was seated ------- the keynote speaker and the foundation president during the banquet.
+- (A) about
+- (B) ✓ between
+- (C) versus
+- (D) except
+
+> 📘 **Điểm ngữ pháp:** giới từ `between A **and** B` = ở giữa hai đối tượng — dấu hiệu là chữ `and` nối hai danh từ.
+> **Vì sao đúng:** ông ngồi **giữa** diễn giả chính và chủ tịch quỹ ⇒ (B).
+> **Bẫy:** (C) `versus` = đối đầu với (dùng trong thi đấu, kiện tụng); (D) `except` = ngoại trừ; (A) `about` = về, khoảng.
+> *(keynote speaker = diễn giả chính / foundation = quỹ, tổ chức / banquet = tiệc chiêu đãi)*
+
+**[T10 · Q112]** Officials at Lextar International were unable to agree ------- a definite solution to the problem of steadily declining profit margins.
+- (A) at
+- (B) that
+- (C) by
+- (D) ✓ on
+
+> 📘 **Điểm ngữ pháp:** động từ `agree` đi với **giới từ cố định**: `agree **on** + vấn đề được thống nhất`.
+> **Vì sao đúng:** các lãnh đạo không thống nhất được **về** một giải pháp cụ thể → `agree on a definite solution` ⇒ (D).
+> **Bẫy:** (B) `that` chỉ dùng khi theo sau là một **mệnh đề** (`agree that ...`), còn ở đây là cụm danh từ; (A), (C) không tạo cụm với `agree`.
+> *(agree on = thống nhất về / definite = dứt khoát, cụ thể / profit margin = biên lợi nhuận)*
+
+**[T10 · Q124]** Top executives from Home Stock gave members of the local media a tour of the new store ------- its grand opening.
+- (A) next to
+- (B) ✓ ahead of
+- (C) aside from
+- (D) in front of
+
+> 📘 **Điểm ngữ pháp:** cụm giới từ chỉ **thời gian** đứng trước danh từ chỉ sự kiện.
+> **Vì sao đúng:** báo chí được dẫn đi tham quan **trước** lễ khai trương → `a tour of the new store ahead of its grand opening` ⇒ (B).
+> **Bẫy:** (A) `next to` và (D) `in front of` chỉ **vị trí trong không gian**, không dùng cho một sự kiện; (C) `aside from` = ngoài ... ra.
+> *(ahead of = trước (về thời gian) / grand opening = lễ khai trương / local media = báo chí địa phương)*
+
+**[T10 · Q146 · đoạn 4]** *(announcement)*
+> Submissions are welcome from all universities, and we look forward to seeing a range of topics. (146) ------- the conference's focus on the Midwest, we welcome work from other regions as long as it relates to the needs of the target area.
+
+- (A) Prior to
+- (B) During
+- (C) ✓ Despite
+- (D) Up until
+
+> 📘 **Điểm ngữ pháp:** chỗ trống đứng trước một **cụm danh từ** (`the conference's focus on the Midwest`) nên cần **giới từ**; quan hệ ở đây là **nhượng bộ**.
+> **Vì sao đúng:** **mặc dù** hội thảo tập trung vào vùng Trung Tây, ban tổ chức vẫn nhận bài từ các vùng khác ⇒ (C).
+> **Bẫy:** (A) `Prior to`, (B) `During` và (D) `Up until` đều là giới từ chỉ **thời gian**, nhưng `focus` không phải một mốc thời gian và chúng không tạo được ý tương phản.
+> *(despite = mặc dù / submission = bài nộp / as long as = miễn là / target area = khu vực trọng tâm)*
+
 ---
 
 ## 9. Liên từ và mệnh đề (Conjunctions & clauses)
 
 Phân biệt **liên từ** (nối mệnh đề) với **giới từ** (nối danh từ) và **trạng từ nối** (không nối được hai mệnh đề trong một câu). Dấu hiệu: hai mệnh đề có quan hệ nhân quả / nhượng bộ / điều kiện. Cách làm: đếm số động từ chia thì rồi mới chọn.
 
-*22 câu.*
+*23 câu.*
 
 **[T01 · Q110]** ------- a bank has approved Flynn Co.'s business loan, the company can begin its planned expansion.
 - (A) Even if
@@ -2456,6 +2698,17 @@ Phân biệt **liên từ** (nối mệnh đề) với **giới từ** (nối da
 > **Bẫy:** (C) `so that` chỉ **mục đích** — nhưng việc nhà máy không kham nổi là điều họ muốn **tránh**, không phải mục đích; (A) `but for` và (D) `up to` là **giới từ**, phải đi với danh từ.
 > *(in case = phòng khi / outsource = thuê ngoài / domestic = trong nước / keep up with demand = đáp ứng kịp nhu cầu)*
 
+**[T10 · Q129]** Ms. Jacobs' managerial style is democratic ------- she includes her staff in the decision-making process.
+- (A) ✓ in that
+- (B) for example
+- (C) so that
+- (D) rather than
+
+> 📘 **Điểm ngữ pháp:** sau chỗ trống là một **mệnh đề đầy đủ** nên cần **liên từ**; quan hệ ở đây là **giải thích, làm rõ** cho từ `democratic`.
+> **Vì sao đúng:** cụm liên từ `**in that**` = ở chỗ là, bởi lẽ → phong cách của bà dân chủ **ở chỗ** bà cho nhân viên tham gia ra quyết định ⇒ (A).
+> **Bẫy:** (C) `so that` chỉ **mục đích** — việc để nhân viên tham gia là **bằng chứng** chứ không phải mục đích của tính dân chủ; (B) `for example` là trạng ngữ, không nối được hai mệnh đề; (D) `rather than` = thay vì.
+> *(in that = ở chỗ là, bởi lẽ / democratic = dân chủ / decision-making process = quá trình ra quyết định)*
+
 ---
 
 ## 10. Mệnh đề quan hệ (Relative clauses)
@@ -2608,7 +2861,7 @@ Phân biệt **liên từ** (nối mệnh đề) với **giới từ** (nối da
 
 Dạng so sánh hơn đi với `than`, so sánh nhất đi với `the`. Dấu hiệu: có `than`, `the ... est`, `as ... as`, hoặc từ nhấn mạnh như `very`, `much`, `by far`. Cách làm: tìm từ đánh dấu so sánh trước.
 
-*4 câu.*
+*5 câu.*
 
 **[T01 · Q117]** Broadcasting the ------- latest news 24 hours a day, cable station CPP allows viewers to keep up-to-date on world events.
 - (A) fewer
@@ -2656,6 +2909,17 @@ Dạng so sánh hơn đi với `than`, so sánh nhất đi với `the`. Dấu hi
 > **Bẫy:** (B) `no more than 30 minutes before` sẽ thành "sớm **nhiều nhất** 30 phút", tức **cấm đến sớm hơn** — trái với việc chợ mở cửa cho người bán từ 6 giờ; (A) `shortly` và (C) `already` không đi với `than`.
 > *(no later than = chậm nhất là / vendor = người bán hàng / stall = quầy, sạp / accessible = vào được)*
 
+**[T10 · Q107]** Prospective candidates for the position will be notified of the final decision by June 1 at the -------.
+- (A) late
+- (B) ✓ latest
+- (C) lately
+- (D) later
+
+> 📘 **Điểm ngữ pháp:** cụm cố định `**at the latest**` = chậm nhất là — dùng **dạng so sánh nhất** sau `the`.
+> **Vì sao đúng:** ứng viên sẽ được báo kết quả **chậm nhất là** ngày 1 tháng 6 ⇒ (B).
+> **Bẫy:** (D) `at the later` sai ngữ pháp — sau `the` trong cụm này phải là so sánh nhất; (C) `lately` = dạo gần đây; (A) `late` là tính từ/trạng từ nguyên cấp.
+> *(at the latest = chậm nhất là / prospective candidate = ứng viên tiềm năng / be notified of = được thông báo về)*
+
 ---
 
 ## 12. Câu điều kiện – giả định (Conditionals & subjunctive)
@@ -2692,7 +2956,7 @@ Mệnh đề `if` và các động từ mang nghĩa đề nghị/yêu cầu kéo
 
 Lượng từ phải khớp với **loại danh từ** (đếm được / không đếm được, số ít / số nhiều) và với số lượng đối tượng. Dấu hiệu: `few`, `little`, `any`, `either`, `much`, `each`. Cách làm: nhìn danh từ đi sau trước khi chọn.
 
-*8 câu.*
+*10 câu.*
 
 **[T01 · Q106]** Please review your contract, and feel free to ask us ------- questions you might have.
 - (A) few
@@ -2786,13 +3050,35 @@ Lượng từ phải khớp với **loại danh từ** (đếm được / không
 > **Bẫy:** (A) `less` dùng cho danh từ **không đếm được**; (C) `those` cần mệnh đề quan hệ hoặc cụm bổ nghĩa theo sau (`those who ...`); (D) `whatever` chỉ **vật**, không chỉ người.
 > *(be confident that = tự tin rằng / database maintenance = bảo trì cơ sở dữ liệu / highly skilled = tay nghề cao)*
 
+**[T10 · Q110]** Verdant Island can only be visited in the daytime since ------- of it is covered by water at night.
+- (A) ✓ much
+- (B) few
+- (C) less
+- (D) enough
+
+> 📘 **Điểm ngữ pháp:** lượng từ phải khớp với danh từ mà `of it` trỏ tới — `it` = **hòn đảo**, một danh từ **không đếm được** ở đây, và động từ theo sau là `**is**` (số ít).
+> **Vì sao đúng:** ban đêm **phần lớn** hòn đảo bị nước ngập → `much of it **is** covered by water` ⇒ (A).
+> **Bẫy:** (B) `few` dùng cho danh từ **đếm được số nhiều** và sẽ đòi `are`; (C) `less` là dạng so sánh, cần `than`; (D) `enough of it` không diễn tả được ý "phần lớn".
+> *(be covered by = bị bao phủ bởi / daytime = ban ngày)*
+
+**[T10 · Q117]** The Cottonwood Gallery guarantees that ------- of the items it sells is an original and comes with an official certificate of authenticity.
+- (A) many
+- (B) ✓ each
+- (C) both
+- (D) all
+
+> 📘 **Điểm ngữ pháp:** lượng từ làm chủ ngữ phải khớp **số** với hai động từ **số ít** `**is**` và `**comes**`.
+> **Vì sao đúng:** `**Each** of the items ... **is** an original and **comes** with ...` — `each` luôn được coi là số ít ⇒ (B).
+> **Bẫy:** (A) `many`, (C) `both`, (D) `all` đều mang nghĩa số nhiều và sẽ đòi `are` / `come`.
+> *(original = bản gốc / certificate of authenticity = giấy chứng nhận thật)*
+
 ---
 
 ## 14. Từ vựng – kết hợp từ (Vocabulary & collocation)
 
 Bốn phương án cùng từ loại, khác nghĩa — phải chọn theo **ngữ cảnh** hoặc theo **cụm đi với nhau**. Dấu hiệu: không có manh mối ngữ pháp nào. Cách làm: đọc cả câu (và câu bên cạnh trong Part 6) để bắt logic, và để ý giới từ mà từ đó đòi hỏi.
 
-*159 câu.*
+*175 câu.*
 
 **[T01 · Q102]** Charles Wang submitted a resume that ------- his years of experience in advertising.
 - (A) ✓ emphasized
@@ -4663,13 +4949,201 @@ Bốn phương án cùng từ loại, khác nghĩa — phải chọn theo **ng�
 > **Bẫy:** (C) `fixed up` = sửa sang lại — nếu được sửa thì nó vẫn hoạt động, mâu thuẫn với câu sau; (A) `looked over` = xem qua; (B) `paid for` = được trả tiền.
 > *(shut down = đóng cửa / functional = còn hoạt động được / push for = vận động đòi / ever since = kể từ đó)*
 
+**[T10 · Q106]** Athlete Tim Ferguson has made a ------- recovery from his injuries and will be able to play in his team's next match.
+- (A) reverse
+- (B) preferable
+- (C) ✓ remarkable
+- (D) negligible
+
+> 📘 **Điểm ngữ pháp:** từ vựng — tính từ phải khớp với vế `**will be able to play** in his team's next match`.
+> **Vì sao đúng:** anh hồi phục **đáng kinh ngạc** nên đã có thể thi đấu trận tới → `a remarkable recovery` ⇒ (C).
+> **Bẫy:** (D) `negligible` = không đáng kể — trái hẳn với việc anh đã chơi được; (A) `reverse` = ngược lại; (B) `preferable` = đáng chuộng hơn.
+> *(remarkable = đáng kinh ngạc / recovery = sự hồi phục / negligible = không đáng kể)*
+
+**[T10 · Q109]** Ms. Larrington's ------- speech about how to improve customer satisfaction has motivated service specialists across the country.
+- (A) perishable
+- (B) portable
+- (C) ✓ enthusiastic
+- (D) indifferent
+
+> 📘 **Điểm ngữ pháp:** từ vựng — tính từ phải giải thích được việc bài nói `has **motivated**` nhiều người.
+> **Vì sao đúng:** bài nói **đầy nhiệt huyết** mới truyền được động lực cho nhân viên khắp nước ⇒ (C).
+> **Bẫy:** (D) `indifferent` = thờ ơ, dửng dưng — trái hẳn; (A) `perishable` = dễ hỏng (dùng cho thực phẩm); (B) `portable` = xách tay được.
+> *(enthusiastic = đầy nhiệt huyết / indifferent = thờ ơ / perishable = dễ hư hỏng / motivate = truyền động lực)*
+
+**[T10 · Q111]** Extra staff were called in from nearby branches to help plant crews ------- production deadlines for an unexpected order.
+- (A) ✓ meet
+- (B) enter
+- (C) relieve
+- (D) commit
+
+> 📘 **Điểm ngữ pháp:** từ vựng — động từ tạo cụm cố định với `deadlines`.
+> **Vì sao đúng:** cụm `**meet** a deadline` = kịp hạn chót → nhân sự được điều thêm để giúp tổ sản xuất kịp tiến độ ⇒ (A).
+> **Bẫy:** (B) `enter` = đi vào, nhập vào; (C) `relieve` = làm dịu, thay ca; (D) `commit` = cam kết (phải là `commit **to** a deadline`).
+> *(meet a deadline = kịp hạn chót / plant crew = tổ công nhân nhà máy / be called in = được điều tới)*
+
+**[T10 · Q114]** The dean announced that an esteemed professor working at the university for three decades would ------- be retiring.
+- (A) rarely
+- (B) frequently
+- (C) newly
+- (D) ✓ soon
+
+> 📘 **Điểm ngữ pháp:** từ vựng — trạng từ phải hợp với một hành động **xảy ra một lần** trong tương lai gần.
+> **Vì sao đúng:** vị giáo sư gắn bó ba mươi năm **sắp** nghỉ hưu → `would soon be retiring` ⇒ (D).
+> **Bẫy:** (A) `rarely` và (B) `frequently` chỉ **tần suất** — nghỉ hưu không phải việc lặp đi lặp lại; (C) `newly` chỉ đi với phân từ quá khứ (`newly appointed`).
+> *(esteemed = được kính trọng / decade = thập kỷ / retire = nghỉ hưu / dean = trưởng khoa)*
+
+**[T10 · Q116]** To increase the stability of large data transfers, the technical crew will ------- an upgraded software program on Friday.
+- (A) detach
+- (B) ✓ install
+- (C) convert
+- (D) capture
+
+> 📘 **Điểm ngữ pháp:** từ vựng — động từ nào nhận `an upgraded software program` làm tân ngữ.
+> **Vì sao đúng:** tổ kỹ thuật sẽ **cài đặt** phần mềm nâng cấp → `install an upgraded software program` ⇒ (B).
+> **Bẫy:** (A) `detach` = tháo rời; (C) `convert` = chuyển đổi (định dạng); (D) `capture` = ghi lại, chiếm lấy — không động từ nào đi với việc đưa phần mềm vào hệ thống.
+> *(install = cài đặt / stability = độ ổn định / data transfer = việc truyền dữ liệu)*
+
+**[T10 · Q119]** The developers at Staycor ------- test new software multiple times as their overall objective is to detect and eliminate any defects.
+- (A) almost
+- (B) barely
+- (C) suddenly
+- (D) ✓ typically
+
+> 📘 **Điểm ngữ pháp:** từ vựng — trạng từ phải hợp với việc kiểm thử `**multiple times**` như một thông lệ.
+> **Vì sao đúng:** các lập trình viên **thường** kiểm thử phần mềm nhiều lần → `typically test new software multiple times` ⇒ (D).
+> **Bẫy:** (B) `barely` = hầu như không — trái với `multiple times`; (A) `almost` phải đứng ngay trước từ nó bổ nghĩa và không tạo nghĩa hợp lý ở đây; (C) `suddenly` = đột nhiên.
+> *(typically = thường, theo lệ thường / detect = phát hiện / eliminate = loại bỏ / defect = lỗi, khuyết tật)*
+
+**[T10 · Q122]** ------- expectations, the band's greatest hits CD sold a million copies shortly after its release.
+- (A) Recommending
+- (B) Perceiving
+- (C) Evolving
+- (D) ✓ Exceeding
+
+> 📘 **Điểm ngữ pháp:** từ vựng — cả bốn phương án đều là V-ing, nên chọn theo **nghĩa** ghép với `expectations`.
+> **Vì sao đúng:** đĩa bán được một triệu bản, tức **vượt quá** mong đợi → `Exceeding expectations, ...` ⇒ (D).
+> **Bẫy:** (A) `recommend` = giới thiệu, đề xuất; (B) `perceive` = nhận thức; (C) `evolve` = tiến hoá — không cái nào đi với `expectations` theo nghĩa này.
+> *(exceed expectations = vượt quá mong đợi / greatest hits = tuyển tập ca khúc hay nhất / release = việc phát hành)*
+
+**[T10 · Q123]** Mr. Conrad posted advertisements on several recruitment sites, including the ------- regarding salaries and benefits.
+- (A) permissions
+- (B) configurations
+- (C) ✓ particulars
+- (D) institutions
+
+> 📘 **Điểm ngữ pháp:** từ vựng — danh từ nào đi được với `regarding salaries and benefits` trong một mẩu tin tuyển dụng.
+> **Vì sao đúng:** mẩu quảng cáo có kèm **các chi tiết cụ thể** về lương và phúc lợi → `the particulars regarding salaries and benefits` ⇒ (C).
+> **Bẫy:** (A) `permissions` = sự cho phép; (B) `configurations` = cấu hình; (D) `institutions` = tổ chức, cơ quan.
+> *(particulars = các chi tiết cụ thể / recruitment site = trang tuyển dụng / benefits = phúc lợi)*
+
+**[T10 · Q125]** Responding to declining sales figures, Senturia Automotive concluded that they had to ------- the M5 Sedan line.
+- (A) disembark
+- (B) disobey
+- (C) ✓ discontinue
+- (D) dismiss
+
+> 📘 **Điểm ngữ pháp:** từ vựng — động từ nhận `the M5 Sedan line` (một dòng sản phẩm) làm tân ngữ.
+> **Vì sao đúng:** doanh số giảm nên hãng quyết định **ngừng sản xuất** dòng xe đó → `discontinue the M5 Sedan line` ⇒ (C).
+> **Bẫy:** (D) `dismiss` = sa thải (người) hoặc bác bỏ (ý kiến); (A) `disembark` = xuống tàu/máy bay; (B) `disobey` = không tuân lệnh.
+> *(discontinue = ngừng sản xuất, ngừng cung cấp / declining = đang giảm / sales figures = số liệu doanh thu)*
+
+**[T10 · Q130]** MEG Electronics has a page on its Web site dedicated to ------- from users of its products.
+- (A) licenses
+- (B) ✓ testimonials
+- (C) accomplishments
+- (D) tendencies
+
+> 📘 **Điểm ngữ pháp:** từ vựng — danh từ phải là thứ **đến từ người dùng sản phẩm** (`from users of its products`).
+> **Vì sao đúng:** trang web có mục dành riêng cho **lời nhận xét, chứng thực** của người dùng → `dedicated to testimonials from users` ⇒ (B).
+> **Bẫy:** (A) `licenses` = giấy phép; (C) `accomplishments` = thành tựu; (D) `tendencies` = xu hướng — không cái nào là thứ người dùng gửi tới.
+> *(testimonial = lời nhận xét, chứng thực của khách / be dedicated to = dành riêng cho)*
+
+**[T10 · Q131 · đoạn 1]** *(advertisement)*
+> Do you find (131) ------- your home more trouble than it's worth? If so, call Wimberley's—the most trusted housekeeping service in Kent. Since opening five years ago, we have consistently received top ratings from our customers.
+
+- (A) buying
+- (B) ✓ cleaning
+- (C) furnishing
+- (D) decorating
+
+> 📘 **Điểm ngữ pháp:** từ vựng — động từ phải khớp với ngành nghề nêu ngay sau: `the most trusted **housekeeping service**`.
+> **Vì sao đúng:** đây là quảng cáo của dịch vụ dọn nhà, và cả đoạn sau chỉ nói về `window and floor **washing**, **vacuuming**, and tile **polishing**` ⇒ `cleaning your home` ⇒ (B).
+> **Bẫy:** (A) `buying` = mua; (C) `furnishing` = kê nội thất; (D) `decorating` = trang trí — không dịch vụ nào trong quảng cáo làm những việc đó.
+> *(housekeeping service = dịch vụ dọn dẹp nhà cửa / more trouble than it's worth = phiền hơn cả cái lợi nó mang lại)*
+
+**[T10 · Q133 · đoạn 1]** *(advertisement)*
+> We use state-of-the-art equipment to get rid of the odors, dirt, and stains you've been struggling with. Furthermore, if you need to remove large (133) ------- items such as furniture or appliances, the Wimberley's staff can do this for a small additional fee.
+
+- (A) extensive
+- (B) foreseeable
+- (C) ✓ unwanted
+- (D) infrequent
+
+> 📘 **Điểm ngữ pháp:** từ vựng — tính từ phải giải thích được **lý do khách muốn `remove` (dọn đi)** những món đồ đó.
+> **Vì sao đúng:** người ta chỉ nhờ chở đi những món **không dùng đến nữa** → `remove large unwanted items such as furniture or appliances` ⇒ (C).
+> **Bẫy:** (A) `extensive` = rộng lớn, trên diện rộng (không dùng cho một món đồ); (B) `foreseeable` = có thể lường trước; (D) `infrequent` = không thường xuyên.
+> *(unwanted = không còn cần đến / appliance = đồ gia dụng / state-of-the-art = tối tân / get rid of = loại bỏ)*
+
+**[T10 · Q137 · đoạn 2]** *(e-mail)*
+> As indicated in the manual, to (137) ------- the door, you must push it forward until a clicking sound is heard. If you simply close the compartment without holding the tab, the door will not remain closed.
+
+- (A) enclose
+- (B) fill
+- (C) obstruct
+- (D) ✓ secure
+
+> 📘 **Điểm ngữ pháp:** từ vựng — động từ phải khớp với kết quả mô tả ở câu sau: `the door will **remain closed**`.
+> **Vì sao đúng:** đẩy tới khi nghe tiếng "cạch" là để **cài chặt** cửa tủ → `to secure the door` ⇒ (D).
+> **Bẫy:** (C) `obstruct` = làm nghẽn, chắn lối — nghĩa xấu; (A) `enclose` = bao kín, gửi kèm; (B) `fill` = làm đầy.
+> *(secure = cài chặt, giữ chắc / tab = cái chốt, tai gạt / as indicated in = như đã nêu trong)*
+
+**[T10 · Q139 · đoạn 3]** *(e-mail)*
+> We received your application for project manager at Gleeson Consulting. The company had a large number of applicants, so (139) ------- for the position was rather strong. I therefore regret to inform you that you have not been shortlisted for this post.
+
+- (A) supposition
+- (B) allocation
+- (C) ✓ competition
+- (D) entry
+
+> 📘 **Điểm ngữ pháp:** từ vựng — danh từ phải là hệ quả của việc `had a **large number of applicants**` và giải thích cho việc ứng viên bị loại.
+> **Vì sao đúng:** đông người nộp đơn nên **sự cạnh tranh** cho vị trí này rất gắt → `competition for the position was rather strong` ⇒ (C).
+> **Bẫy:** (A) `supposition` = sự phỏng đoán; (B) `allocation` = việc phân bổ; (D) `entry` = lối vào, mục nhập — không cái nào đi với `strong` theo nghĩa này.
+> *(competition = sự cạnh tranh / be shortlisted = được vào danh sách rút gọn / post = vị trí công việc)*
+
+**[T10 · Q142 · đoạn 3]** *(e-mail)*
+> Interviews for this vacancy will take place on March 20 from 10 A.M. to 3 P.M. Please get in touch with me to let me know if you are interested in the job and can come in between these times. If you are not (142) -------, perhaps we can arrange a date that is more convenient for you.
+
+- (A) anxious
+- (B) determined
+- (C) fortunate
+- (D) ✓ available
+
+> 📘 **Điểm ngữ pháp:** từ vựng — tính từ phải đối lại với `can come in between these times` ở câu trước.
+> **Vì sao đúng:** nếu ông **không rảnh** trong khung giờ đó thì hai bên sẽ hẹn ngày khác → `If you are not available, perhaps we can arrange a date that is more convenient` ⇒ (D).
+> **Bẫy:** (A) `anxious` = lo lắng, nóng lòng; (B) `determined` = quyết tâm; (C) `fortunate` = may mắn — không tính từ nào liên quan tới việc **thu xếp được thời gian**.
+> *(available = rảnh, thu xếp được / arrange a date = hẹn một ngày / vacancy = vị trí trống)*
+
+**[T10 · Q145 · đoạn 4]** *(announcement)*
+> Interested professors and lecturers are asked to submit their abstracts before May 1. You will be sent a notification from the department if your (145) ------- is selected. Once you receive this notice, you will be required to submit the full paper for review and approval.
+
+- (A) ✓ outline
+- (B) drawing
+- (C) certificate
+- (D) assistant
+
+> 📘 **Điểm ngữ pháp:** từ vựng — danh từ phải trỏ về thứ vừa được nộp ở câu trước (`their **abstracts**`) và đối lại với `the **full paper**` ở câu sau.
+> **Vì sao đúng:** cái được xét duyệt trước là **bản tóm tắt, đề cương** bài viết → `if your outline is selected` ⇒ (A) (`outline` = `abstract`).
+> **Bẫy:** (B) `drawing` = bản vẽ; (C) `certificate` = giấy chứng nhận; (D) `assistant` = trợ lý — không cái nào là thứ được nộp để xét chọn ở đây.
+> *(outline = đề cương, bản tóm tắt / abstract = tóm tắt tham luận / review and approval = xét duyệt)*
+
 ---
 
 ## 15. Từ nối chuyển ý *(Part 6)* (Transition words)
 
 Từ nối phải khớp **quan hệ logic** giữa câu chứa chỗ trống và câu ngay trước. Cách làm: đọc câu trước và câu sau, xác định là *thêm ý / đối lập / nhân quả / cụ thể hoá / trình tự thời gian* rồi mới chọn.
 
-*11 câu.*
+*12 câu.*
 
 **[T01 · Q133 · đoạn 1]** *(e-mail)*
 > It is therefore very important for the merchandise I sell to appeal to my target market. (133) ------- everything must be convenient to use and made of durable materials. I have attached a list of products I intend to feature and would like a sample of each one (134) -------.
@@ -4815,13 +5289,26 @@ Từ nối phải khớp **quan hệ logic** giữa câu chứa chỗ trống v�
 > **Bẫy:** (A) `Meanwhile` = trong khi đó (đối chiếu hai việc song song); (B) `Fortunately` = may thay; (D) `Regardless` = bất kể thế nào — cả ba đều không diễn tả được quan hệ nguyên nhân – kết quả.
 > *(therefore = do đó / litter = rác vứt bừa / receptacle = thùng chứa / refuse = rác thải / on hand = có sẵn)*
 
+**[T10 · Q140 · đoạn 3]** *(e-mail)*
+> I therefore regret to inform you that you have not been shortlisted for this post. (140) -------, we have closely examined your qualifications and consider you eligible for the project assistant position.
+
+- (A) Likewise
+- (B) ✓ Nonetheless
+- (C) Therefore
+- (D) Henceforth
+
+> 📘 **Điểm ngữ pháp:** từ nối chuyển ý — quan hệ giữa hai câu là **tương phản**.
+> **Vì sao đúng:** ông **không** được vào danh sách rút gọn cho vị trí quản lý dự án, **tuy vậy** công ty vẫn thấy ông đủ điều kiện cho vị trí trợ lý dự án → `Nonetheless` ⇒ (B).
+> **Bẫy:** (C) `Therefore` chỉ kết quả — nhưng việc bị loại không **dẫn tới** việc được xét vị trí khác; (A) `Likewise` = tương tự; (D) `Henceforth` = từ nay trở đi.
+> *(nonetheless = tuy vậy / qualifications = năng lực, bằng cấp / eligible for = đủ điều kiện cho)*
+
 ---
 
 ## 16. Chèn câu vào đoạn *(Part 6)* (Sentence insertion)
 
 Câu được chọn phải nối được **cả hai phía**: tiếp nhận thông tin của câu trước và mở đường cho câu sau. Cách làm: soi các **từ nối và đại từ** trong bốn phương án (`this`, `these changes`, `Furthermore`) xem chúng trỏ về đâu; loại ngay câu nói về chi tiết chưa từng xuất hiện trong đoạn.
 
-*36 câu.*
+*40 câu.*
 
 **[T01 · Q134 · đoạn 1]** *(e-mail — chèn câu)*
 > To: McRay Productions <inquiries@mcrayprod.com>
@@ -5614,6 +6101,99 @@ Câu được chọn phải nối được **cả hai phía**: tiếp nhận th�
 > **Vì sao đúng:** lời của bà Faukes nêu toàn **lợi ích** (`make athletic resources readily accessible`, `help unite the community`); câu (B) khái quát rằng phần đông tin cơ sở như vậy `**highly beneficial**` — đúng vai một câu dẫn ⇒ (B). Con số `**82 percent**` ủng hộ ở đoạn 1 cũng xác nhận chữ `Most`.
 > **Bẫy:** (A) trái hẳn với 82 phần trăm ủng hộ; (C) bài chưa nói tới lễ khởi công nào — công trình còn chưa xây; (D) không có chi tiết nào về việc phải chỉnh sửa phương án.
 > *(prevalent = phổ biến / beneficial = có ích / unite = gắn kết / modification = sự chỉnh sửa)*
+
+**[T10 · Q132 · đoạn 1]** *(advertisement — chèn câu)*
+> Do you find (131) ------- your home more trouble than it's worth? If so, call Wimberley's—the most trusted housekeeping service in Kent. Since opening five years ago, we have consistently received top ratings from our customers.
+>
+> (132) -------. Our crew takes care of window and floor washing, vacuuming, and tile polishing. We use state-of-the-art equipment to get rid of the odors, dirt, and stains you've been struggling with. Furthermore, if you need to remove large (133) ------- items such as furniture or appliances, the Wimberley's staff can do this for a small additional fee.
+>
+> We (134) ------- your home at whatever time is most convenient for you! So, if you're interested, please call us at 555-9190.
+
+- (A) You may join the crew by sending in your application.
+- (B) We also sell a wide range of cleaning products.
+- (C) ✓ Wimberley's does all the tiresome jobs that you don't have the time for.
+- (D) Our service schedule will be posted online once we resume operations.
+
+> 📘 **Điểm ngữ pháp:** chèn câu — câu này **mở đầu đoạn 2**, nên phải là câu khái quát mà những câu sau đi vào chi tiết.
+> **Vì sao đúng:** câu (C) nêu ý chung "Wimberley's làm mọi việc nhọc nhằn mà bạn không có thời gian làm", rồi các câu sau liệt kê đúng những việc đó: `window and floor washing, vacuuming, and tile polishing` ⇒ (C). Nó cũng nối lại được câu mở đầu quảng cáo (`more trouble than it's worth`).
+> **Bẫy:** (A) sai đối tượng — quảng cáo hướng tới **khách hàng**, không tuyển người; (B) công ty **cung cấp dịch vụ**, không bán sản phẩm tẩy rửa; (D) công ty đã hoạt động `five years` liên tục, không hề tạm dừng.
+> *(tiresome = mệt mỏi, nhọc nhằn / resume operations = hoạt động trở lại / crew = tổ, đội)*
+
+**[T10 · Q136 · đoạn 2]** *(e-mail — chèn câu)*
+> To: Talia Moroz <talia.moroz@homemail.com>
+> From: Miles Kaufmann <m.kaufmann@coldmaker.com>
+> Date: July 31
+> Subject: Your request
+>
+> Dear Ms. Moroz,
+>
+> I am writing in reply to your inquiry about the Coldmaker refrigerator you purchased recently. In your e-mail, you stated that the compartment does not close properly. (135) ------- issue was brought up by other customers in the past. Our technicians have since discovered what the problem is. (136) -------.
+>
+> As indicated in the manual, to (137) ------- the door, you must push it forward until a clicking sound is heard. If you simply close the compartment without holding the tab, the door will not remain closed.
+>
+> Could you please try this method first? If you continue to have a problem, please contact a service center (138) ------- on our Web site.
+>
+> Thank you for writing, and I hope I have been of service to you.
+>
+> Sincerely,
+> Miles Kaufmann
+> Warranty service agent
+
+- (A) We are glad that you have found a solution to the problem.
+- (B) ✓ It appears that users are not following product manual guidelines.
+- (C) A serviceman will visit your home in a day or two.
+- (D) The appliance you purchased is no longer for sale due to this defect.
+
+> 📘 **Điểm ngữ pháp:** chèn câu — câu trước nói kỹ thuật viên `have since **discovered what the problem is**`, nên câu chèn phải **nói ra chính cái nguyên nhân đó**.
+> **Vì sao đúng:** nguyên nhân là người dùng không làm theo sách hướng dẫn, và đoạn ngay sau bắt đầu bằng `**As indicated in the manual**, ...` rồi chỉ lại cách đóng cửa tủ ⇒ (B).
+> **Bẫy:** (A) sai vì bà Moroz **chưa** tìm ra cách khắc phục — ông mới đang hướng dẫn; (C) trái với việc ông đề nghị `Could you please **try this method first**?`; (D) tủ lạnh không hề bị lỗi sản xuất.
+> *(guideline = hướng dẫn / defect = lỗi sản phẩm / serviceman = nhân viên kỹ thuật)*
+
+**[T10 · Q141 · đoạn 3]** *(e-mail — chèn câu)*
+> To: Henry Chan <h.chan@followmail.com>
+> From: Gleeson Consulting <hr@gleeson.com>
+> Date: March 14
+> Subject: Re: Application for project manager position
+>
+> Dear Mr. Chan,
+>
+> We received your application for project manager at Gleeson Consulting. The company had a large number of applicants, so (139) ------- for the position was rather strong. I therefore regret to inform you that you have not been shortlisted for this post. (140) -------, we have closely examined your qualifications and consider you eligible for the project assistant position. (141) -------.
+>
+> Interviews for this vacancy will take place on March 20 from 10 A.M. to 3 P.M. Please get in touch with me to let me know if you are interested in the job and can come in between these times. If you are not (142) -------, perhaps we can arrange a date that is more convenient for you.
+>
+> Yours truly,
+> Jacqueline Hart
+> Human resources manager
+> Gleeson Consulting
+
+- (A) Some of the documents we requested were missing from your application.
+- (B) We do not have vacancies at this time, but may consider your application in the future.
+- (C) Your offer to find a suitable applicant was accepted.
+- (D) ✓ We hope you will consider being interviewed for this opening.
+
+> 📘 **Điểm ngữ pháp:** chèn câu — câu này khép lại đoạn 1 và phải **mở đường** cho đoạn 2, vốn bắt đầu bằng `**Interviews** for this vacancy will take place on March 20 ...`.
+> **Vì sao đúng:** vừa nói ông đủ điều kiện cho vị trí trợ lý dự án, thư mời ông **cân nhắc dự phỏng vấn** cho vị trí đó ⇒ (D); `this **opening**` chính là `the project assistant **position**` vừa nhắc.
+> **Bẫy:** (B) trái hẳn — công ty **đang có** vị trí trống và còn ấn định ngày phỏng vấn; (A) thư không nhắc tới giấy tờ thiếu; (C) đảo ngược vai — ông Chan là **người xin việc**, không phải người đi tìm ứng viên giúp công ty.
+> *(opening = vị trí đang tuyển / vacancy = chỗ trống / get in touch with = liên hệ với)*
+
+**[T10 · Q144 · đoạn 4]** *(announcement — chèn câu)*
+> **CALL FOR PAPERS**
+>
+> The Department of Sociology at the University of Northern Wisconsin (143) ------- an academic conference on social transformation in the Midwestern United States from June 7 to 9. (144) -------. Interested professors and lecturers are asked to submit their abstracts before May 1.
+>
+> You will be sent a notification from the department if your (145) ------- is selected. Once you receive this notice, you will be required to submit the full paper for review and approval.
+>
+> Submissions are welcome from all universities, and we look forward to seeing a range of topics. (146) ------- the conference's focus on the Midwest, we welcome work from other regions as long as it relates to the needs of the target area.
+
+- (A) A number of applicants were awarded grants for this project.
+- (B) ✓ In this regard, we are now accepting proposals related to this topic.
+- (C) We are pleased to have you on the committee and will provide needed support.
+- (D) In addition, it featured speakers from regional education establishments.
+
+> 📘 **Điểm ngữ pháp:** chèn câu — phải nối câu giới thiệu hội thảo với câu sau (`submit their **abstracts** before May 1`).
+> **Vì sao đúng:** `In this regard` trỏ về chủ đề hội thảo vừa nêu, và `we are now **accepting proposals**` chính là điều mà câu sau nói rõ hạn nộp ⇒ (B).
+> **Bẫy:** (D) dùng thì **quá khứ** (`it featured`) trong khi hội thảo chưa diễn ra; (A) tài trợ chưa hề được nhắc tới; (C) sai đối tượng — người đọc là người **định gửi bài**, chưa phải thành viên ban tổ chức.
+> *(in this regard = về việc này / proposal = đề xuất, bản tóm tắt đề tài / abstract = bản tóm tắt tham luận / grant = khoản tài trợ)*
 
 ---
 
@@ -12987,6 +13567,855 @@ Câu được chọn phải nối được **cả hai phía**: tiếp nhận th�
 
 > 📘 Câu từ vựng đồng nghĩa. Trong câu `let me know once the hotel's **opening date has been settled**`, `settle` mang nghĩa **chốt lại, ấn định** một ngày ⇒ `finalized` ⇒ (B). Lá thư cũng dùng đúng ý đó ở chỗ khác: `our opening date, which **hasn't been established yet**`. (A) là nghĩa "thanh toán hoá đơn" của `settle`, không hợp với `date`.
 
+## TEST 10
+
+### Questions 147–148 · text message
+
+> **Bergman Glazer**
+> Received June 14, 1:00 p.m.
+>
+> Dear Ms. Crowder: Always shop at Bergman Glazer for **great deals** *(ưu đãi hời)* on fine home furniture and **accessories** *(phụ kiện)*. Enter the **promotional code** 57HPDQ1X *(mã khuyến mãi)* at www.bergmanglazer.com before **checking out** *(thanh toán)* to receive **free shipping** on any order of $100 or more *(miễn phí vận chuyển)*. This code may be used only once and cannot be shared. It **expires** on June 30 at 11:59 P.M. *(hết hạn)*. This message has been sent because you are a **registered customer** of www.bergmanglazer.com *(khách hàng đã đăng ký)*. If you are not interested in receiving similar promotional messages in the future, text "STOP" as a reply to this message. For assistance or **inquiries** *(thắc mắc)*, text "HELP." **Standard messaging rates apply** *(áp dụng cước tin nhắn thông thường)*.
+
+> ⚠️ Tin nhắn được in trong khung giao diện điện thoại nên lớp text OCR chèn vào rất nhiều ký tự rác của phần khung (`o`, `UJ`, `LTI`, `CO`, `LD`) và cắt câu ở giữa (`This code / may / be used only once`); phần chữ đã được ghép lại theo đúng dòng. Hai chỗ dính chữ cũng đã sửa: `ReceivedJune 14`→`Received June 14`, `www. bergmanglazer.com`→`www.bergmanglazer.com`.
+
+**147.** What is the purpose of the message?
+- (A) To advertise a sale on **secondhand** items *(đồ đã qua sử dụng)*
+- (B) To confirm registration on a Web page
+- (C) To promote a new line of **home furnishings** *(đồ nội thất gia đình)*
+- (D) ✓ To encourage shopping at an online store
+
+> 📘 Câu mục đích. Tin nhắn mở đầu bằng `**Always shop at** Bergman Glazer for great deals` rồi hướng dẫn `Enter the promotional code ... **at www.bergmanglazer.com** before checking out` ⇒ mục đích là thúc đẩy mua sắm trên trang web ⇒ (D). Việc bà là khách đã đăng ký chỉ là **lý do** bà nhận được tin, không phải mục đích (loại B); tin không nhắc tới dòng sản phẩm **mới** nào (loại C).
+
+**148.** What is indicated about Ms. Crowder?
+- (A) She recently **placed an order** worth at least $100 *(đặt hàng)*.
+- (B) ✓ She **signed up as a customer** on a Web site *(đăng ký làm khách hàng)*.
+- (C) She entered a **draw** to get a discount coupon *(cuộc rút thăm)*.
+- (D) She works for a furniture design company.
+
+> 📘 Câu chi tiết. `This message has been sent because **you are a registered customer of www.bergmanglazer.com**` ⇒ bà đã đăng ký trên trang web ⇒ (B). Mốc $100 là **điều kiện** để được miễn phí vận chuyển ở đơn hàng sắp tới, không phải đơn bà đã đặt (loại A).
+
+### Questions 149–150 · notice
+
+> **Notice to All Library Users**
+>
+> Please note that over the next month, the West Springs Library will be moving from its **current location** *(địa điểm hiện tại)* to a much larger space that will allow us to provide more and better services to our users. We have **signed a lease to occupy** the former Benchmark Cinema building *(ký hợp đồng thuê để sử dụng)* on the corner of Wentworth Rise and 9th Avenue, and we will be **renovating the structure** *(cải tạo toà nhà)* before **relocating our collection** there *(chuyển kho sách)*. This building is in a more **central location** *(vị trí trung tâm hơn)*, which will allow us to reach more library users.
+>
+> Unfortunately, the process of moving will create some **temporary disturbances** to our services *(gián đoạn tạm thời)*. Users will not be able to **borrow** any items *(mượn)* from the library after April 6, and we ask that all items currently **out on loan** *(đang được mượn)* be returned by April 13. After this, the library will be closed from April 14 until May 1, when our new location is expected to open. We are sorry for any **inconvenience** this may cause *(sự bất tiện)*. The nearest public library available to you **during the closure** *(trong thời gian đóng cửa)* will be the **facility** in Coach Hill *(cơ sở)*.
+>
+> Thank you for your understanding.
+>
+> Calgary Library Services
+
+**149.** What is the purpose of the notice?
+- (A) ✓ To announce a change of location for a facility
+- (B) To report the **permanent closure** of a library *(việc đóng cửa vĩnh viễn)*
+- (C) To remind users about book return policies
+- (D) To inform members of an increase in **library fines** *(tiền phạt thư viện)*
+
+> 📘 Câu mục đích. Câu đầu: `the West Springs Library **will be moving from its current location to a much larger space**` ⇒ thông báo về việc chuyển địa điểm ⇒ (A). Thư viện chỉ đóng cửa **tạm thời** từ 14/4 tới 1/5 (loại B); hạn trả sách chỉ là một chi tiết phụ của việc chuyển nhà (loại C).
+
+**150.** What is indicated about the West Springs Library?
+- (A) Its current building will be used as a cinema in the future.
+- (B) ✓ The closest public library to it is in Coach Hill.
+- (C) Its renovations will last over three months.
+- (D) The facility is located in **downtown** Calgary *(khu trung tâm)*.
+
+> 📘 Câu chi tiết. Cuối đoạn 2: `The **nearest public library** available to you during the closure will be the facility in **Coach Hill**` ⇒ (B). Toà nhà **sắp chuyển tới** mới là rạp chiếu phim cũ (`the **former** Benchmark Cinema building`), chứ không phải trụ sở hiện nay (loại A); toàn bộ quá trình chỉ kéo dài `over the next **month**` (loại C).
+
+### Questions 151–152 · letter
+
+> March 3
+>
+> Judy Mayer
+> Whole Nutrition Pet Foods, Inc.
+> 1930 Industrial Street
+> Lawton, OK 73501
+>
+> Dear Ms. Mayer,
+>
+> I am writing to apply for the position of **manufacturing plant electrician** *(thợ điện nhà máy sản xuất)* for your Lawton location. I have been a **certified electrician** *(thợ điện có chứng chỉ)* for 15 years. I recently left my job of three years at the Oklahoma City **facility** of Loyalty Limited *(cơ sở)* to **relocate to** Lawton *(chuyển đến sống ở)*. I am now **seeking employment** *(tìm việc)* and your advertised job would be **a good fit for me** *(rất hợp với tôi)*.
+>
+> I worked on the general electrical needs of the factory and its equipment for my most recent employer. My **assignments** required a lot of **problem solving** *(nhiệm vụ được giao / khả năng xử lý sự cố)* as well as electrical knowledge. The equipment **setup and adjustments** I **carried out** regularly *(lắp đặt và hiệu chỉnh / đã thực hiện)* involved computer technology.
+>
+> About eight years ago, I earned an **associate's degree** in computer technology *(bằng cao đẳng)* so that I could work **in the capacity of** an equipment electrician *(với tư cách, ở vai trò)*. Since then, I have **kept up with developments in the field** *(theo kịp những tiến bộ trong ngành)* through training courses. I have included more details about my **accomplishments** in my **resume** *(thành tích / sơ yếu lý lịch)*, which is **enclosed** with this letter *(gửi kèm)*.
+>
+> Given my latest experience working at a company that manufactures **similar products to yours** *(sản phẩm tương tự của quý công ty)*, I think I could **make an easy transition** *(chuyển sang làm rất dễ dàng)*. In fact, it is **highly likely** that your company uses **much the same equipment** *(rất có khả năng / gần như cùng loại thiết bị)*.
+>
+> I thank you for your **consideration** *(sự xem xét)* and do hope you will contact me for an interview at rilaney@postmail.com or at 555-9483.
+>
+> Sincerely,
+> Rick Delaney
+
+> ⚠️ Địa chỉ e-mail in trong sách là `**rilaney**@postmail.com` trong khi người viết tên là **Rick Delaney** (lẽ ra phải là `rdelaney`) — ảnh trang 272 xác nhận đây là **lỗi của chính bản in**, nên được giữ nguyên.
+
+**151.** Why was the letter written?
+- (A) To request a **transfer** to Oklahoma City *(việc điều chuyển)*
+- (B) ✓ To apply for a **technical position** *(vị trí kỹ thuật)*
+- (C) To register for a **degree program** *(chương trình cấp bằng)*
+- (D) To **inquire if** a job is still available *(hỏi xem)*
+
+> 📘 Câu mục đích. Câu đầu: `I am writing to **apply for the position of manufacturing plant electrician**` ⇒ thư xin việc cho một vị trí kỹ thuật ⇒ (B). Ông đã **rời** cơ sở Oklahoma City và chuyển tới Lawton (loại A); tấm bằng cao đẳng là chuyện của **tám năm trước** (loại C).
+
+**152.** What does Mr. Delaney suggest about Loyalty Limited?
+- (A) It has employed him for the past 15 years.
+- (B) ✓ It produces products for animals.
+- (C) It offers **financial support** to staff earning degrees *(hỗ trợ tài chính)*.
+- (D) It operates a **branch plant** in Lawton *(nhà máy chi nhánh)*.
+
+> 📘 Câu suy luận. Ông viết thư cho **Whole Nutrition Pet Foods** — công ty làm **thức ăn cho thú cưng** — và nói `Given my latest experience working at a company that manufactures **similar products to yours**` ⇒ Loyalty Limited cũng làm sản phẩm cho vật nuôi ⇒ (B). Con số 15 năm là thời gian ông **có chứng chỉ nghề**, còn ở Loyalty Limited ông chỉ làm `**three years**` (loại A); cơ sở của Loyalty Limited nằm ở **Oklahoma City** (loại D).
+
+### Questions 153–156 · Web page
+
+> http://www.cornucopiaindustries.com/companyoverview
+>
+> HOME | COMPANY OVERVIEW | PRODUCT INFORMATION | EMPLOYMENT | CONTACT
+>
+> Cornucopia Industries has grown **alongside** the development of technology *(song hành cùng)* in workplaces **across the globe** *(khắp thế giới)*. No matter what our various **corporate customers'** specific needs are *(khách hàng doanh nghiệp)*, our company provides the highest quality **telecommunications solutions** *(giải pháp viễn thông)* and customer service. Cornucopia has **earned a positive reputation** with clients *(gây dựng được tiếng tốt)* across North America over the years for its **business practices** *(cách làm ăn)*. — [1] —.
+>
+> Cornucopia continues to be a **total solution provider** *(nhà cung cấp giải pháp trọn gói)*, delivering a variety of telecommunications products for businesses in all types of industries. Some of our **primary sellers** *(mặt hàng bán chạy chủ lực)* include **analog and digital switches** *(bộ chuyển mạch analog và số)*, **fiber optic cables** *(cáp quang)*, modems, routers, and other **local area network (LAN) equipment** *(thiết bị mạng nội bộ)*. — [2] —.
+>
+> Cornucopia Industries is currently preparing to become a **global leader** *(đơn vị dẫn đầu toàn cầu)* by **doing research into new fields** *(nghiên cứu các lĩnh vực mới)* such as **satellite technology** and **mobile networking** *(công nghệ vệ tinh / mạng di động)*. — [3] —. Our team of **dedicated employees** *(nhân viên tận tuỵ)* also continually **endeavors to engage clients abroad** *(nỗ lực tiếp cận khách hàng ở nước ngoài)* to **foster relationships** with a **diverse array of** organizations *(vun đắp quan hệ / một loạt đa dạng các)*.
+>
+> It is the number one goal of Cornucopia Industries to become a **revolutionary** company *(mang tính cách mạng)* that develops and **enhances** communications techniques *(nâng cao)* for another **half a century** *(nửa thế kỷ)*, and even longer! We are grateful to all of our partners and clients for their **ongoing support** *(sự ủng hộ liên tục)*. — [4] —.
+
+> ⚠️ Lớp text OCR của bản scan thể hiện các mốc chèn câu không thống nhất (`-[1]-.`, `-[2]-.` nhưng `Ñ [3] Ñ`, `Ñ [4] Ñ`); tất cả đã được chuẩn hoá thành `— [n] —.`
+
+**153.** What is mentioned about Cornucopia Industries?
+- (A) It has been **recognized with** several business awards *(được vinh danh bằng)*.
+- (B) ✓ It is known for providing excellent customer service.
+- (C) It **derives** most of its business from **government contracts** *(có được / hợp đồng nhà nước)*.
+- (D) It sold **a share of** its business to a foreign firm *(một phần)*.
+
+> 📘 Câu chi tiết. Đoạn 1: `our company provides the **highest quality** telecommunications solutions and **customer service**`, và `Cornucopia has **earned a positive reputation** with clients ... for its business practices` ⇒ công ty nổi tiếng về dịch vụ khách hàng ⇒ (B). Trang web không nhắc tới giải thưởng nào (loại A) và khách hàng của họ là `**corporate** customers`, không phải chính phủ (loại C).
+
+**154.** What can visitors most likely do on Cornucopia Industries' Web site?
+- (A) ✓ View information on **job vacancies** *(vị trí tuyển dụng)*
+- (B) **Place orders** for equipment *(đặt mua)*
+- (C) Obtain details on a **refund policy** *(chính sách hoàn tiền)*
+- (D) Find local **retailers** of its **merchandise** *(nhà bán lẻ / hàng hoá)*
+
+> 📘 Câu suy luận từ **thanh điều hướng**. Menu có mục `**EMPLOYMENT**` ⇒ khách vào trang xem được thông tin tuyển dụng ⇒ (A). Các mục còn lại là `COMPANY OVERVIEW`, `PRODUCT INFORMATION`, `CONTACT` — không có mục đặt hàng, hoàn tiền hay tra cứu đại lý (loại B, C, D).
+
+**155.** What is Cornucopia Industries' plan?
+- (A) To **acquire** another communications company *(thâu tóm)*
+- (B) To upgrade technological equipment at its factory
+- (C) ✓ To **get involved in other fields** within the industry *(tham gia vào các lĩnh vực khác)*
+- (D) To hire a customer service **training specialist** *(chuyên viên đào tạo)*
+
+> 📘 Câu chi tiết. Đoạn 3: `Cornucopia Industries is currently preparing to become a global leader by **doing research into new fields such as satellite technology and mobile networking**` ⇒ công ty định lấn sang các lĩnh vực mới trong ngành ⇒ (C). Trang web không nói gì về việc mua lại công ty khác hay nâng cấp nhà máy.
+
+**156.** In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
+"To achieve this, we must apply decades' of technical experience to the latest technologies available today."
+- (A) [1]
+- (B) [2]
+- (C) ✓ [3]
+- (D) [4]
+
+> 📘 Câu chèn câu. `To achieve **this**` phải trỏ về một **mục tiêu** vừa được nêu, và `the **latest technologies**` phải nối với các lĩnh vực công nghệ mới. Câu ngay trước [3]: `Cornucopia ... is currently **preparing to become a global leader** by doing research into new fields such as **satellite technology and mobile networking**` ⇒ [3] là chỗ duy nhất có sẵn cả mục tiêu lẫn công nghệ mới. Ở [1], [2] mạch đang nói về uy tín và danh mục sản phẩm hiện có; [4] đã sang lời cảm ơn khép lại.
+> *(apply ... to = vận dụng ... vào / decades of experience = hàng chục năm kinh nghiệm)*
+
+### Questions 157–159 · survey form
+
+> **The Granriver Hotel**
+> **Guest Stay Survey**
+>
+> We ask all of our guests to please take a moment to fill out this form to provide us with your **valued feedback** *(ý kiến quý báu)* and comments, which will help us improve our services. Please mark all responses with an (X).
+>
+> NAME: Gordon Pence · DATE(S) OF STAY: August 18–19
+> PHONE: (404) 555-3984 · E-MAIL: gorpen@gotomail.com
+>
+> | | Disagree | Somewhat Agree | Agree |
+> |---|---|---|---|
+> | **1) Overall, my stay at The Granriver Hotel was ...** | | | |
+> | pleasant, peaceful, and comfortable. | | | X |
+> | an excellent **value for the price** of my room *(đáng đồng tiền)*. | | | X |
+> | **2) Upon check-in, I was ...** | | | |
+> | immediately **greeted by a front desk staff member** *(được nhân viên lễ tân chào đón)*. | | | X |
+> | given all necessary information for my stay. | | | X |
+> | **assisted with my baggage** *(được giúp mang hành lý)*, if necessary. | X | | |
+> | **3) When entering my room for the first time, it was ...** | | | |
+> | **neat, tidy, and orderly** *(sạch sẽ, gọn gàng, ngăn nắp)*. | | | X |
+> | a comfortable and **appropriate temperature** *(nhiệt độ phù hợp)*. | X | | |
+> | **4) I found the facilities at The Granriver Hotel to be ...** | | | |
+> | convenient **in regard to** my specific and personal needs *(về mặt)*. | | | X |
+> | **detailed accurately** in the hotel **directory** *(được mô tả chính xác / sổ tay khách sạn)*. | | | X |
+> | **5) In general, the staff at The Granriver Hotel were ...** | | | |
+> | easy to contact when needed. | X | | |
+> | friendly, understanding, and **attentive** *(chu đáo)*. | | | X |
+> | able to **effectively resolve any issues** I had *(xử lý hiệu quả mọi vấn đề)*. | | | X |
+>
+> **6) Please specify any other comments below:**
+>
+> Overall, I am quite pleased with my experience at your hotel. I did have a small issue after check-in, though. I had several large bags, but the front desk **clerk** *(nhân viên)* informed me that a **bellhop** was not currently available *(nhân viên xách hành lý)*. My room was clean and **spacious** *(rộng rãi)*. However, upon entering I noticed that, for some reason, the air conditioner was **turned down to a chilly 16 degrees Celsius** *(vặn xuống mức lạnh 16 độ C)*. The **indoor pool** *(bể bơi trong nhà)* was fantastic and very relaxing, but I had a hard time **getting in touch with staff** *(liên lạc được với nhân viên)* on a few occasions when asking about where to pick up and **dispose of pool towels** *(bỏ khăn tắm bể bơi vào đâu)*.
+
+> ⚠️ Lớp text OCR của bản scan chỉ đọc được **3 trong số 12 dấu X** của bảng khảo sát và xếp chúng lệch cột; toàn bộ bảng đã được đọc lại từ **ảnh trang 274**. Tên khách cũng bị đọc thành `**C**ordon Pence` — ảnh cho thấy là **Gordon Pence**, khớp với địa chỉ `**gor**pen@gotomail.com`.
+
+**157.** What does the hotel NOT request feedback on?
+- (A) The **attitude and behavior** of employees *(thái độ và cách cư xử)*
+- (B) The state of the room **upon initial entry** *(lúc mới bước vào)*
+- (C) ✓ The **accessibility** of the hotel *(khả năng đi lại tới nơi, sự thuận tiện về vị trí)*
+- (D) The **correctness** of items in the directory *(tính chính xác)*
+
+> 📘 Câu NOT. (A) khớp mục 5 `friendly, understanding, and attentive`; (B) khớp mục 3 `When **entering my room for the first time**`; (D) khớp mục 4 `**detailed accurately** in the hotel directory`. Phiếu chỉ hỏi cơ sở vật chất có `**convenient in regard to my ... needs**` hay không, chứ không hỏi về **vị trí hay đường tới khách sạn** ⇒ (C).
+
+**158.** What did the guest most likely do following hotel check-in?
+- (A) Ordered a **room service** meal *(bữa ăn phục vụ tại phòng)*
+- (B) Used an **outdoor** swimming pool *(ngoài trời)*
+- (C) ✓ Carried **luggage** to his room by himself *(hành lý)*
+- (D) Made a complaint to a **travel agency** *(công ty du lịch)*
+
+> 💡 Cần ghép **bảng khảo sát** với **phần nhận xét**: ông đánh `**Disagree**` ở dòng `assisted with my baggage, if necessary`, và phần nhận xét giải thích rõ `I had several large bags, but the front desk clerk informed me that **a bellhop was not currently available**` ⇒ ông phải tự xách đồ lên phòng ⇒ (C). Bể bơi ông dùng là bể **trong nhà** (`the **indoor** pool`) — loại B.
+
+**159.** What is suggested about the guest's room?
+- (A) ✓ The air conditioning had been **left running** *(bị để chạy sẵn)*.
+- (B) The bed had not been **properly made** *(dọn dẹp đúng cách)*.
+- (C) The bathroom did not contain any towels.
+- (D) The hotel directory was not easily found.
+
+> 💡 Cần ghép **bảng khảo sát** với **phần nhận xét**: ông đánh `**Disagree**` ở dòng `a comfortable and appropriate temperature`, và giải thích `upon entering I noticed that, for some reason, the **air conditioner was turned down to a chilly 16 degrees Celsius**` ⇒ máy lạnh đã được bật sẵn từ trước ⇒ (A). Phòng vẫn `clean and spacious` và ông đánh `Agree` cho `neat, tidy, and orderly` (loại B); khăn ông hỏi là **khăn của bể bơi**, không phải khăn phòng tắm (loại C).
+
+### Questions 160–162 · notice
+
+> **Steam Railway Jamboree – Friday, May 2 to Sunday, May 4** *(hội hè đường sắt hơi nước)*
+>
+> As always, the first weekend in May will see our annual Steam Railway Jamboree take place. The Concord to Marlborough **steam railway** *(tuyến đường sắt chạy bằng hơi nước)* was first built in 1847 and **fell out of use** in the early 20th century *(không còn được dùng nữa)*. But the **tracks** are still in place *(đường ray)*, and once a year the Massachusetts **Historical Preservation Society** *(Hội Bảo tồn Di sản Lịch sử)* spends three days running the traditional trains through the beautiful **landscape** *(cảnh quan)*.
+>
+> Trains will run through seven historic stations, **departing from** Concord every hour *(khởi hành từ)*. You can **get on and off** wherever you like *(lên và xuống tàu)*, and there are great **hiking trails** available *(đường mòn đi bộ đường dài)* from Maynard and Hudson Stations. Or take the train to Marlborough station, **at the end of the line** *(ga cuối tuyến)*, where a wide range of **vendors** *(người bán hàng)* will be selling food and drinks. Entertainment will be provided throughout the **carriages** *(toa tàu)*, and we encourage visitors to arrive in 19th century **costumes** *(trang phục)*!
+>
+> Tickets are available **in advance** at www.massivehistory.com *(mua trước)* or can be bought at Concord Station. **Passes are valid for unlimited rides** on the day of purchase *(vé có giá trị đi lại không giới hạn)*, and prices are $14 for adults and $7 for children.
+
+> ⚠️ Lớp text OCR của bản scan đọc `the **tracks** are still in place` thành `the **trades** are still in place`; ảnh trang 275 xác nhận từ đúng là **tracks** (đường ray). Chỗ dính chữ `fell out ofuse` cũng đã tách lại.
+
+**160.** Why was the notice written?
+- (A) To advertise **membership in a historical society** *(tư cách hội viên một hội sử học)*
+- (B) ✓ To announce an upcoming **regional** event *(trong vùng)*
+- (C) To explain a change to **transit regulations** *(quy định giao thông công cộng)*
+- (D) To provide summer train service **updates** *(thông tin cập nhật)*
+
+> 📘 Câu mục đích. Thông báo giới thiệu `our **annual** Steam Railway Jamboree` sẽ diễn ra `the first weekend in May`, kèm lịch chạy tàu, hoạt động và giá vé ⇒ đây là lời loan báo về một sự kiện sắp tới trong vùng ⇒ (B). Hội Bảo tồn Di sản chỉ là **bên tổ chức**, thông báo không mời ai vào hội (loại A).
+
+**161.** What is indicated about the steam railway?
+- (A) ✓ It only operates on a **special occasion** *(dịp đặc biệt)*.
+- (B) It is **funded by** a history preservation group *(được tài trợ bởi)*.
+- (C) It recently **renovated** its facilities *(cải tạo)*.
+- (D) It offers a discount to **the elderly** *(người cao tuổi)*.
+
+> 📘 Câu chi tiết. Đoạn 1: tuyến này `**fell out of use** in the early 20th century`, và `**once a year** the Massachusetts Historical Preservation Society spends **three days** running the traditional trains` ⇒ tàu chỉ chạy vào dịp lễ hội này ⇒ (A). Hội đứng ra **vận hành** tàu, không phải cấp tiền (loại B); giá vé chỉ có hai mức cho người lớn và trẻ em (loại D).
+
+**162.** What can visitors do during the first weekend of May?
+- (A) Participate in a **charity fundraiser** near Hudson Station *(buổi quyên góp từ thiện)*
+- (B) ✓ Enjoy **refreshments** at a train's **final destination** *(đồ ăn thức uống / điểm cuối hành trình)*
+- (C) Borrow historical costumes at the **event venue** *(địa điểm tổ chức)*
+- (D) Purchase **souvenirs** at Concord Station *(quà lưu niệm)*
+
+> 📘 Câu chi tiết. Đoạn 2: `take the train to Marlborough station, **at the end of the line**, where a wide range of vendors will be **selling food and drinks**` ⇒ ga cuối có đồ ăn thức uống ⇒ (B). Khách được **khuyến khích tự mặc** trang phục thế kỷ 19 chứ không được cho mượn (loại C); ga Hudson chỉ có **đường mòn đi bộ** (loại A); ga Concord là nơi **bán vé** (loại D).
+
+### Questions 163–164 · text message chain
+
+> **Kate Hendrickson** [5:01 P.M.]
+> Jackie, have we **heard back from** the Loflin Institute yet *(nhận được hồi âm từ)*? You were supposed to ask them if their Hall D was available for our **end-of-year banquet** *(tiệc tất niên)*.
+>
+> **Jackie Dalton** [5:03 P.M.]
+> They said another company has already **made a booking** on December 28th *(đặt chỗ)*. But they mentioned a new **ballroom** they opened last month *(phòng khiêu vũ, sảnh tiệc lớn)* that we could use for the party.
+>
+> **Kate Hendrickson** [5:06 P.M.]
+> Oh, hadn't you heard? It was moved to the 27th.
+>
+> **Jackie Dalton** [5:07 P.M.]
+> That's news to me. I'll call back and check for that day.
+>
+> **Kate Hendrickson** [5:08 P.M.]
+> Great. **Once that's settled** *(một khi chuyện đó xong xuôi)*, please send a **notice** about the event *(thông báo)* to the staff before December 15.
+>
+> **Jackie Dalton** [5:09 P.M.]
+> I'll still be on vacation then. Is **the following day** okay *(ngày hôm sau)*?
+>
+> **Kate Hendrickson** [5:11 P.M.]
+> Sounds good. Thanks a lot!
+
+> ⚠️ Lớp text OCR của bản scan cắt mất phần đầu tin 5:07 P.M. (chỉ còn `That's news to me. / call back and check for that day.`); ảnh trang 276 cho thấy đầy đủ là `That's news to me. **I'll** call back and check for that day.` Dòng đầu trang cũng bị đọc thành `Questions 163**=**164 ... text message chain**,**`.
+
+**163.** At 5:07 p.m., what does Ms. Dalton mean when she writes, "That's news to me"?
+- (A) She wishes she could help arrange a banquet.
+- (B) ✓ She was not aware of a **schedule alteration** *(sự thay đổi lịch)*.
+- (C) She has other plans for her holiday.
+- (D) She did not hear about a change in **venue** *(địa điểm)*.
+
+> 📘 Câu hỏi ý định. Bà Dalton vừa hỏi Loflin về ngày `**December 28th**`, rồi bà Hendrickson nói `Oh, hadn't you heard? **It was moved to the 27th**` ⇒ "Chuyện đó tôi mới nghe lần đầu" = bà chưa biết **ngày tổ chức đã đổi** ⇒ (B). Thứ bị đổi là **ngày**, không phải địa điểm (loại D).
+
+**164.** When will staff receive the notice?
+- (A) On December 15
+- (B) ✓ On December 16
+- (C) On December 27
+- (D) On December 28
+
+> 💡 Cần ghép **hai tin nhắn cuối**: bà Hendrickson yêu cầu `send a notice ... to the staff **before December 15**`; bà Dalton đáp `I'll still be **on vacation then**. Is **the following day** okay?` và được chấp thuận (`Sounds good`) ⇒ ngày kế tiếp ngày 15 là **16 tháng 12** ⇒ (B). Ngày 27 và 28 là các mốc của **buổi tiệc**, không phải của thông báo (loại C, D).
+
+### Questions 165–167 · notice
+
+> The Watertown Recreation Committee invites you to join
+> **The Fourth Annual Rock River Walking Challenge**
+> Saturday, April 16, 9 a.m. to 1 p.m.
+>
+> Each year, this race is organized by the City of Watertown as a way to **promote community cooperation** *(thúc đẩy sự gắn kết cộng đồng)* and to celebrate Watertown's **heritage** *(di sản)*. Open to people of all ages, the event promises a day of fun in **the great outdoors** *(giữa thiên nhiên)*. The main event will be followed by an afternoon of **merriment** *(vui chơi)* at the Jefferson County Festival Grounds, where **locals and visitors alike** *(cả người địa phương lẫn khách)* can enjoy good food, **live music performances** *(nhạc sống)*, and a selection of beverages from the state's finest **breweries** *(nhà máy bia)*. For the young and **young-at-heart** *(người còn trẻ trong tâm hồn)*, games and activities will be hosted by **volunteers** *(tình nguyện viên)* from the Anne Witmer Children's Foundation, which will also be providing **on-site childcare facilities** *(dịch vụ trông trẻ ngay tại chỗ)*.
+>
+> **To Join:**
+> Simply **sign up** before 9 a.m. on the day of the event *(đăng ký)*.
+> **Participation costs** are $10 for individuals *(phí tham gia)* or $5 for those participating in our group/team event.
+> Children under 12 may participate **for free** *(miễn phí)*.
+> **Cash prizes** will be given *(giải thưởng tiền mặt)* to the individual and group that **finish in first place** *(về nhất)*.
+> And others finishing in the top 10 will receive **gift vouchers** from local businesses *(phiếu quà tặng)*.
+> All participants will receive a **commemorative T-shirt** *(áo phông kỷ niệm)*.
+>
+> If you would like to organize a team through your business, family, school, or other group, please contact the **program coordinator** *(điều phối viên chương trình)* before April 16. A Walking Challenge **Support Kit** *(bộ tài liệu hỗ trợ)* will be provided for each group, containing a guide, **health forms**, and **handouts** *(phiếu khai sức khoẻ / tài liệu phát tay)* that you may **distribute** to your group's members *(phát cho)*.
+>
+> **Contact:**
+> Rachel Bocher
+> Program Coordinator
+> rbocher@watertown_vt.org
+>
+> **Special thanks to our sponsors:**
+> The Watertown Chamber of Commerce, The Anne Witmer Foundation, The National Health Service, Green Vine Groceries, Mailman's Pharmacy, and Jefferson Rural Bank
+
+**165.** What will NOT be offered at the event?
+- (A) Locally-made drinks
+- (B) Live performances
+- (C) **Day care** services *(trông giữ trẻ ban ngày)*
+- (D) ✓ Use of a **shuttle** *(xe đưa đón)*
+
+> 📘 Câu NOT. (A) khớp `a selection of beverages from **the state's finest breweries**`; (B) khớp `**live music performances**`; (C) khớp `will also be providing **on-site childcare facilities**`. Thông báo không hề nhắc tới xe đưa đón ⇒ (D).
+
+**166.** What is mentioned about the participants?
+- (A) They may attend an **orientation session** *(buổi định hướng)*.
+- (B) ✓ They will each receive a **complimentary item** *(một món quà tặng miễn phí)*.
+- (C) They must submit an online registration form.
+- (D) They will need to wear T-shirts for the race.
+
+> 📘 Câu chi tiết. Mục "To Join": `**All participants will receive a commemorative T-shirt**` ⇒ ai cũng được tặng một món ⇒ (B). Việc đăng ký chỉ cần `**simply sign up** before 9 a.m. on the day of the event`, không nói tới mẫu đơn trực tuyến (loại C); áo là **quà kỷ niệm**, không phải trang phục bắt buộc khi thi (loại D).
+
+**167.** According to the notice, who should contact Ms. Bocher?
+- (A) Race volunteers
+- (B) Visiting tourists
+- (C) **Prospective vendors** *(người muốn vào bán hàng)*
+- (D) ✓ **Group organizers** *(người đứng ra lập đội)*
+
+> 📘 Câu chi tiết. Đoạn áp cuối: `If you would like to **organize a team** through your business, family, school, or other group, please **contact the program coordinator** before April 16` — và phần Contact ghi `Rachel Bocher, **Program Coordinator**` ⇒ (D). Tình nguyện viên là người của Anne Witmer Children's Foundation (loại A).
+
+### Questions 168–171 · article
+
+> **There May be Hope for Small Regional Retailers After All!** *(rốt cuộc thì các nhà bán lẻ nhỏ trong vùng vẫn còn hy vọng)*
+> By Doris Bentley
+>
+> In the highly competitive world of **retail sales** *(bán lẻ)*, it's difficult for **inexperienced entrepreneurs** *(chủ doanh nghiệp còn non kinh nghiệm)* to **turn a profit** *(có lãi)* when the cost of renting a store or shop is so high. But regional retailers don't need to **look any further** now *(tìm đâu xa)* than the Bradford Retail **Cooperative** building *(khu liên hợp, hợp tác xã)*, opening on March 1. — [1] —.
+>
+> The cooperative is located in the building **formerly occupied by** the Mega-B-Mart superstore *(trước đây do ... sử dụng)* on the **outskirts** of Bradford City *(vùng ven)*. **In partnership with** the city government *(hợp tác cùng)*, Phoenix-Star Properties has **updated the structure and renovated it to house** 160 small retail **booths** *(nâng cấp và cải tạo toà nhà để chứa / gian hàng)*. Director of Phoenix-Star, Brenda Nixon, said, "the old structure was **an eyesore** *(một cái gai trong mắt, chỗ gây mất mỹ quan)* ever since the store it once held **went bankrupt** *(phá sản)*. — [2] —. Through a very small **investment** *(khoản đầu tư)*, we have been able to **revitalize** the building *(hồi sinh)* into a location that is not only useful to the community but will help improve local **economic conditions** as well *(tình hình kinh tế)*."
+>
+> Phoenix-Star Properties provided half the **funds** for the structural changes *(kinh phí)*, and the rest came from the city development **budget** *(ngân sách)*, which is **funded by local taxes** *(lấy từ tiền thuế địa phương)*. — [3] —. "We are really excited about the opening! And **given** Phoenix-Star's incredible success *(xét tới)* doing similar projects with other **abandoned buildings** *(toà nhà bỏ hoang)* in locations across the country, I am sure we will experience the same popularity here," said city government **spokesperson** *(người phát ngôn)*, Beatrice Guzman.
+>
+> The retail **units** *(gian, ô)* will be available for rent to **artisans, craftsmen** *(nghệ nhân, thợ thủ công)*, and private businesses owners from the region. With **rental rates** starting at as low as $500 per month *(giá thuê)*, Phoenix-Star has confirmed that 90 percent of the spaces have **already been filled** *(đã có người thuê)*. It seems clear that the Bradford Retail Cooperative building is already popular with local entrepreneurs. — [4] —.
+
+> ⚠️ Lớp text OCR của bản scan đọc dấu gạch ngang dài `—` thành `Ñ` (riêng mốc [4] lại thành `-[4] -.`) và dính chữ ở hai chỗ (`outskirts ofBradford City`, `Director ofPhoenix-Star`); tất cả đã được chuẩn hoá.
+
+**168.** What is the topic of the article?
+- (A) ✓ A **property development project** *(dự án phát triển bất động sản)*
+- (B) A city's decline in construction
+- (C) A retail **branch closure** *(việc đóng cửa chi nhánh)*
+- (D) An increase in regional **rents** *(tiền thuê)*
+
+> 📘 Câu chủ đề. Bài viết về việc Phoenix-Star Properties `**updated the structure and renovated it to house 160 small retail booths**` trong toà nhà cũ, cùng nguồn vốn và triển vọng của dự án ⇒ (A). Siêu thị Mega-B-Mart đóng cửa từ **trước**, chỉ là bối cảnh (loại C); giá thuê ở đây `as **low** as $500 per month` (loại D).
+
+**169.** What is indicated about Phoenix-Star Properties?
+- (A) It has been **contracted by** Bradford City on several occasions *(được ... ký hợp đồng thuê làm)*.
+- (B) ✓ It has transformed some **vacant structures** into retail facilities *(toà nhà bỏ trống)*.
+- (C) It provided the majority of the **investment capital** for the project *(vốn đầu tư)*.
+- (D) It will complete its renovation work in three weeks.
+
+> 📘 Câu chi tiết. Lời bà Guzman: `given Phoenix-Star's incredible success doing **similar projects with other abandoned buildings** in locations across the country` ⇒ công ty từng biến nhiều toà nhà bỏ hoang thành nơi buôn bán ⇒ (B). Họ chỉ góp `**half** the funds`, phần còn lại từ ngân sách thành phố (loại C); toà nhà đã sắp mở cửa ngày 1/3 (loại D).
+
+**170.** What is NOT true about the Bradford Retail Cooperative building?
+- (A) It has already **secured tenants** for many of its units *(có người thuê)*.
+- (B) It will house numerous small businesses.
+- (C) ✓ It will be rented by the city government.
+- (D) It was **partially financed** by local taxes *(được tài trợ một phần)*.
+
+> 📘 Câu NOT. (A) khớp `**90 percent of the spaces have already been filled**`; (B) khớp `renovated it to house **160 small retail booths**`; (D) khớp `the rest came from the city development budget, which is **funded by local taxes**`. Chính quyền thành phố là **đối tác góp vốn**, còn người thuê là `artisans, craftsmen, and private business owners` ⇒ (C) sai.
+
+**171.** In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?
+"However, it still remains to be seen whether local shoppers will like the place as much."
+- (A) [1]
+- (B) [2]
+- (C) [3]
+- (D) ✓ [4]
+
+> 📘 Câu chèn câu. Chữ `**However**` báo hiệu tương phản, và `**as much**` phải so với một sự yêu thích vừa được nêu. Câu ngay trước [4]: `the Bradford Retail Cooperative building is **already popular with local entrepreneurs**` ⇒ câu chèn lật lại: còn phải chờ xem **người mua** có thích đến vậy không ⇒ [4], cũng là câu khép lại bài báo. Ở [1]–[3] mạch vẫn đang giới thiệu dự án và nguồn vốn.
+> *(it remains to be seen whether = còn phải chờ xem liệu / shopper = người đi mua sắm)*
+
+### Questions 172–175 · text message chain
+
+> **Alison Cambie** [4:12 P.M.]
+> Just finished the first day at the Sacramento Annual **Job Fair** *(hội chợ việc làm)*. With only three of us at the company's **booth** *(gian hàng)*, there were more visitors than we could **handle** *(kham nổi)*. Are any of you willing to **help out** tomorrow *(giúp một tay)*? We will receive the **overtime pay rate** *(mức lương làm thêm giờ)* for the hours we work.
+>
+> **Justin Bostwick** [4:15 P.M.]
+> I can **lend you a hand** *(giúp chị một tay)*. But I am only **available** in the morning *(rảnh)* because I have an important **errand** in the afternoon *(việc phải chạy đi lo)*.
+>
+> **Reena Kumar** [4:15 P.M.]
+> Sorry, but I have to **inspect a job site** *(đi kiểm tra công trường)* for one of our clients. **Apparently** *(có vẻ như)*, there is a problem that could **delay our construction of their building** *(làm chậm việc thi công toà nhà của họ)*.
+>
+> **Angus O'Hara** [4:17 P.M.]
+> I have nothing **urgent** planned for tomorrow *(gấp)*. What time do I need to be at the conference center?
+>
+> **Alison Cambie** [4:19 P.M.]
+> I understand, Reena, and good luck with that! And thanks to you others for **volunteering** *(xung phong)*. The doors of the **exhibit center** *(trung tâm triển lãm)* open to visitors at 10. Please make sure you arrive early to help **set up** *(dựng gian, chuẩn bị)*.
+>
+> **Justin Bostwick** [4:20 P.M.]
+> I'll be there 30 minutes before the event starts.
+>
+> **Angus O'Hara** [4:21 P.M.]
+> Do we need **entry tickets** *(vé vào cửa)*?
+>
+> **Alison Cambie** [4:22 P.M.]
+> Oh, thanks for reminding me. I will leave them for you at the **administrative office** *(văn phòng hành chính)* located near the main entrance.
+
+> ⚠️ Lớp text OCR của bản scan chèn ký tự ảnh đại diện vào trước tên (`0 Alison Cambie`, `o Alison Cambie`) và đọc sai dấu ở hai mốc giờ (`4:15 p.m,`, `4:21p.m.`); tất cả đã được chuẩn hoá.
+
+**172.** What kind of company does Ms. Kumar most likely work for?
+- (A) A retail store
+- (B) A moving company
+- (C) ✓ A **construction firm** *(công ty xây dựng)*
+- (D) A vehicle **manufacturer** *(nhà sản xuất)*
+
+> 📘 Câu suy luận về ngành. Tin 4:15 P.M. của bà Kumar: `I have to **inspect a job site** for one of our clients ... there is a problem that could delay **our construction of their building**` ⇒ công ty của họ làm xây dựng ⇒ (C).
+
+**173.** At 4:15, what does Mr. Bostwick mean when he writes, "I can lend you a hand"?
+- (A) He can send extra staff to assist visitors.
+- (B) ✓ He has some time tomorrow to work at the booth.
+- (C) He will be able to **fill in for** a coworker *(làm thay)*.
+- (D) He is willing to **register** a colleague for an event *(đăng ký)*.
+
+> 📘 Câu hỏi ý định. Bà Cambie vừa hỏi `Are any of you willing to **help out tomorrow**?` ở gian hàng hội chợ; ông đáp "Tôi giúp chị một tay được" rồi nói rõ `But I am only **available in the morning**` ⇒ ông có thể tới trực gian hàng vào buổi sáng ⇒ (B). Ông đi **chính mình**, không phải cử người khác (loại A).
+
+**174.** What does Ms. Cambie say she will do?
+- (A) Recruit volunteers for a job
+- (B) Buy some tickets at a counter
+- (C) ✓ Leave some **admission passes** at an office *(vé vào cửa)*
+- (D) Wait for her colleagues by a venue's entrance
+
+> 📘 Câu chi tiết. Tin cuối 4:22 P.M.: `I will **leave them for you at the administrative office** located near the main entrance` — `them` trỏ về `**entry tickets**` mà ông O'Hara vừa hỏi ⇒ (C). Bà **để vé lại ở văn phòng** chứ không đứng chờ ở lối vào (loại D).
+
+**175.** What is mentioned about the job fair?
+- (A) It attracted few visitors on the first day.
+- (B) It is being held at a new building.
+- (C) It is **specific to an industry** *(chỉ dành cho một ngành)*.
+- (D) ✓ It takes place **once a year** *(mỗi năm một lần)*.
+
+> 📘 Câu chi tiết. Tin 4:12 P.M.: `the Sacramento **Annual** Job Fair` ⇒ hội chợ tổ chức hằng năm ⇒ (D). Ngày đầu **rất đông** (`there were **more visitors than we could handle**`), nên (A) sai; các tin nhắn không nói toà nhà là mới hay hội chợ chỉ dành riêng cho ngành nào (loại B, C).
+
+### Questions 176–180 · e-mails
+
+> To: Janice Vespino <jvesp@farlington.net>
+> From: Mike Duff <mduff@farlington.net>
+> Date: February 3
+> Subject: Account information
+>
+> Hi Janice,
+>
+> This is Mike from Information Technology Services. After you gave me your list of **newly hired employees** *(nhân viên mới tuyển)* yesterday, I created **usernames and passwords** *(tên đăng nhập và mật khẩu)* for them. Before I finish **setting up** their personal account pages *(thiết lập)*, however, I want to confirm that all their names and **corresponding job titles** *(chức danh tương ứng)* are correct. Here is the information I have:
+>
+> John Firth: **Personnel Associate** *(chuyên viên nhân sự)*
+> Margret Wurst: **Account Executive** *(nhân viên phụ trách khách hàng)*
+> Leslie Yang: Assistant to the Marketing Director
+> Fred Braxton: **Junior** Personnel Associate *(bậc mới vào nghề)*
+> Jamie Martinez: **Intern** *(thực tập sinh)*
+>
+> I need to make sure I have their correct job positions, as those details determine what information each person **has access to** *(được quyền truy cập)*. For example, an account executive will be able to view our **database** of clients' e-mails *(cơ sở dữ liệu)*, **whereas** an intern would not be allowed to see that information *(trong khi đó)*. Please let me know **at your earliest convenience** *(khi chị tiện sớm nhất)* what changes, **if any**, are needed *(nếu có)*.
+>
+> As soon as I **hear back from** you *(nhận được hồi âm từ)*, I can **get to work on** the account pages *(bắt tay vào làm)* and have them **up and running** in just a few hours *(chạy được)*. Once that is done, each employee will need to **log in** with the **temporary password** *(đăng nhập / mật khẩu tạm)* I will send to their company e-mail accounts. They will then be **prompted to** enter a new password *(được nhắc phải)*, which must be eight **characters** long *(ký tự)*, containing **a mixture of** numbers and letters *(sự pha trộn giữa)*. You may also want to recommend that they change their passwords quite **regularly** *(thường xuyên)*.
+>
+> Best Regards,
+> Mike Duff
+
+> To: Mike Duff <mduff@farlington.net>
+> From: Janice Vespino <jvesp@farlington.net>
+> Date: February 4
+> Subject: Re: Account information
+>
+> Hi Mike,
+>
+> Thanks for the message you sent yesterday. All of the information regarding job titles is correct. Please **go ahead with your assignment** *(cứ tiến hành công việc của anh)*, and let me know when the personal pages are running.
+>
+> However, you mentioned that interns do not have access to our client e-mail database. **Generally, this is policy** *(nhìn chung đây là quy định)*, but I would like to **authorize an exception** *(cho phép một ngoại lệ)*. The intern we have selected is actually going to be sending **a significant number of** e-mails to our clients *(một lượng lớn)*, so it would help if she had all their **contact information on hand** *(thông tin liên hệ trong tay)* and could view **past communications** *(các trao đổi trước đây)*. I can make her sign a **confidentiality agreement** *(thoả thuận bảo mật)* if necessary.
+>
+> I do have one further request for you, though. Could you make sure that these new employees will be able to **log on to** their account pages *(đăng nhập vào)* in the NetSurfer **Web browser** *(trình duyệt web)*? I know we've had trouble **accessing** account pages *(truy cập)* with that browser, but as it is **installed** on most office computers now *(được cài đặt)*, please **make certain** there are no similar issues *(bảo đảm chắc chắn)* for the new staff.
+>
+> I appreciate your **checking in with me** *(hỏi ý kiến tôi trước)*.
+>
+> Best,
+> Janice Vespino
+> Director of personnel
+
+> ⚠️ Lớp text OCR của bản scan tách dấu lược của `clients'` thành một dấu phẩy riêng trên dòng khác (`our database of` / `,` / `clients e-mails`); đã ghép lại thành `our database of **clients' e-mails**.
+
+**176.** Why did Mr. Duff write to Ms. Vespino?
+- (A) To inform her of some new employees
+- (B) ✓ To check some information regarding new staff
+- (C) To update her login name and password
+- (D) To announce the **cancellation** of her account *(việc huỷ)*
+
+> 📘 Câu mục đích. Đoạn 1 của e-mail thứ nhất: `Before I finish setting up their personal account pages, however, **I want to confirm that all their names and corresponding job titles are correct**` ⇒ ông viết để xác nhận thông tin nhân viên mới ⇒ (B). Chính **bà Vespino** mới là người đưa danh sách nhân viên mới cho ông (loại A).
+
+**177.** What do Mr. Firth and Mr. Braxton have in common?
+- (A) They have signed a confidentiality agreement.
+- (B) ✓ They will both work for Ms. Vespino.
+- (C) They have worked on the same project before.
+- (D) They were hired to do **temporary work** *(việc tạm thời)*.
+
+> 💡 Cần ghép **danh sách chức danh** với **chữ ký cuối e-mail thứ hai**: ông Firth là `**Personnel** Associate` và ông Braxton là `Junior **Personnel** Associate`, còn bà Vespino ký tên là `**Director of personnel**` ⇒ cả hai đều thuộc quyền bà ⇒ (B). Người có thể phải ký thoả thuận bảo mật là **thực tập sinh** (loại A); người làm việc tạm thời cũng là thực tập sinh, không phải hai ông (loại D).
+
+**178.** In the first e-mail, the word "prompted" in paragraph 3, line 3, is closest in meaning to
+- (A) **convinced** *(được thuyết phục)*
+- (B) **hastened** *(bị hối thúc cho nhanh)*
+- (C) ✓ **instructed** *(được hướng dẫn, được yêu cầu)*
+- (D) **activated** *(được kích hoạt)*
+
+> 📘 Câu từ vựng đồng nghĩa. Trong câu `They will then be **prompted to enter a new password**`, đây là thao tác máy tính **nhắc/yêu cầu người dùng làm gì** ⇒ `instructed` ⇒ (C). (A) là thuyết phục ai tin điều gì; (B) nhấn mạnh việc **giục cho nhanh**, không đúng sắc thái; (D) dùng cho thiết bị hay tài khoản, không dùng cho người.
+
+**179.** What does Ms. Vespino indicate in her message?
+- (A) She discovered **errors** in the list of names provided *(lỗi sai)*.
+- (B) She will be directly **supervising** more than one department *(giám sát)*.
+- (C) She needs Mr. Martinez to install a browser on new office computers.
+- (D) ✓ She wants Mr. Martinez to have access to clients' e-mails.
+
+> 💡 Cần ghép **danh sách** với **e-mail thứ hai**: danh sách ghi `Jamie Martinez: **Intern**`; bà Vespino viết `you mentioned that **interns do not have access to our client e-mail database** ... but I would like to **authorize an exception**` ⇒ bà muốn thực tập sinh Martinez được xem e-mail khách hàng ⇒ (D). Bà xác nhận `All of the information regarding job titles **is correct**` (loại A); trình duyệt NetSurfer thì `it **is installed** on most office computers **now**` rồi (loại C).
+
+**180.** What is mentioned about the company's user account pages?
+- (A) They are set up by employees' **direct supervisors** *(cấp trên trực tiếp)*.
+- (B) They automatically record login and password information.
+- (C) ✓ They were sometimes **inaccessible** using a particular Web program *(không truy cập được)*.
+- (D) They list **privileges and benefits** provided to each staff member *(đặc quyền và phúc lợi)*.
+
+> 📘 Câu chi tiết trong e-mail thứ hai. `I know **we've had trouble accessing account pages with that browser**` — nói về NetSurfer ⇒ đôi khi không vào được bằng trình duyệt đó ⇒ (C). Người lập các trang tài khoản là **ông Duff ở bộ phận Công nghệ Thông tin**, không phải cấp trên trực tiếp (loại A).
+
+### Questions 181–185 · article and e-mail
+
+> **New Peckham Gift Store Aims For Quality Above All** *(đặt chất lượng lên trên hết)*
+>
+> The latest addition to the **up-and-coming area** of Peckham *(khu vực đang lên)* is London Gifts. Opened just three weeks ago, the store sells a variety of products created by **independent artists, craftspeople, and publishers** *(nghệ sĩ độc lập, thợ thủ công và nhà xuất bản)* from across the country. The store primarily **specializes in** books, artwork, and clothing *(chuyên về)*—but everything has a British **theme** that **appeals to** locals as well as tourists *(chủ đề / hấp dẫn với)*.
+>
+> Most of the goods sold so far have been from London-based companies, but the shop has already begun **expanding its offerings** *(mở rộng danh mục hàng)*, selling products from Finlay Street Books of Birmingham, Southern Clothing of Southampton, and the Manchester-based artist John Stamp. London Gifts manager Stephanie Blanc is planning to increase the **variety** even more *(sự đa dạng)* in the future, giving shoppers an even greater selection of **unique souvenirs** *(quà lưu niệm độc đáo)* and gift items.
+>
+> "There are already a lot of stores **aimed at** tourists in London *(nhắm tới)*," said Blanc, "but they **tend to sell mass-produced items** *(thường bán hàng sản xuất hàng loạt)*. Our aim at London Gifts is to sell **well-designed, beautifully crafted pieces** *(những món được thiết kế tốt, chế tác đẹp)* that people will be interested in **for years to come** *(trong nhiều năm về sau)* after they return home."
+>
+> London Gifts can be found at 12 Goldsmith Road, a 10-minute walk from Queens Road station, and is open Monday through Saturday from 9 a.m. to 8 p.m.
+
+> To: Stephanie Blanc <shop@londongifts.co.uk>
+> From: Sarah Broadhurst <sarah@oceanside.co.uk>
+> Subject: Business proposal
+> Date: February 3
+>
+> Dear Ms. Blanc,
+>
+> My name is Sarah Broadhurst, and I **run a small business** *(điều hành một cơ sở nhỏ)* called Oceanside Woodworks. We are **based a few buildings down from** one of your **suppliers** *(đặt cơ sở cách vài toà nhà so với / nhà cung cấp)*, Southern Clothing, and it was the manager of that business who gave me your e-mail address.
+>
+> At Oceanside Woodworks, we make a number of products—including **coasters, placemats** *(đế lót cốc, tấm lót bàn ăn)*, and **artistic pieces** *(vật phẩm nghệ thuật)*—and many of them would **complement the selection** you currently sell *(bổ trợ tốt cho danh mục hàng)* in your store. In particular, we have a range of products with pictures of characters from classic British books **engraved on them** *(được khắc lên)*. I have **enclosed our catalog** for this year *(gửi kèm danh mục sản phẩm)* so that you can get some idea of the **merchandise** we produce *(hàng hoá)*.
+>
+> I am always looking for **retailers** willing to sell our quality products *(nhà bán lẻ)* in their **establishments** *(cửa hàng, cơ sở)* and believe that a **partnership could be of benefit to** both our businesses *(quan hệ hợp tác có thể có lợi cho)*. If you are interested in discussing this possibility further, I would be happy to **travel up to London** next week *(lên London)* with some **samples** to show you *(mẫu hàng)*. Please let me know by e-mail or by calling me at 555-6366.
+>
+> Thank you for your **consideration** *(sự xem xét)*, and I hope to hear from you soon.
+>
+> Sincerely,
+> Sarah Broadhurst
+> **Proprietor** *(chủ cơ sở)*
+> Oceanside Woodworks
+
+> ⚠️ Lớp text OCR của bản scan đọc ký tự `@` trong cả hai địa chỉ e-mail thành `(d)` và cắt đuôi địa chỉ thứ hai (`sarah(d)oceanside.co.ul<`); ảnh trang 283 cho thấy đúng là `shop@londongifts.co.uk` và `sarah@oceanside.co.uk`. Dấu gạch ngang dài `—` bị đọc thành `Ñ` (`clothingÑbut`, `productsÑincluding`, `piecesÑand`) và hai chỗ dính chữ (`area ofPeckham`, `variety ofproducts`) cũng đã được sửa.
+
+**181.** What is indicated about London Gifts?
+- (A) ✓ It opened for business a few weeks ago.
+- (B) It is **situated across from** a subway station *(nằm đối diện)*.
+- (C) It is owned by a large **corporate franchise** *(chuỗi nhượng quyền lớn)*.
+- (D) It plans to **launch more branches** *(mở thêm chi nhánh)*.
+
+> 📘 Câu chi tiết trong bài báo. Đoạn 1: `**Opened just three weeks ago**, the store sells a variety of products ...` ⇒ (A). Cửa hàng cách ga Queens Road `a **10-minute walk**` chứ không đối diện (loại B); bà Blanc dự định tăng thêm **chủng loại hàng**, không phải mở chi nhánh (loại D).
+
+**182.** What is mentioned about the products sold at London Gifts?
+- (A) Some of them have been **exported abroad** *(xuất khẩu ra nước ngoài)*.
+- (B) ✓ They are **intended to have a higher quality** than most souvenirs *(được chủ ý làm có chất lượng cao hơn)*.
+- (C) Some of them have been designed by Stephanie Blanc.
+- (D) They are more expensive than items available at tourist sites.
+
+> 📘 Câu chi tiết. Lời bà Blanc: các cửa hàng khác `tend to sell **mass-produced** items`, còn `Our aim at London Gifts is to sell **well-designed, beautifully crafted pieces**` ⇒ hàng ở đây được chủ ý làm tốt hơn quà lưu niệm thông thường ⇒ (B). Bà là **quản lý cửa hàng**, còn hàng do `independent artists, craftspeople, and publishers` làm (loại C); bài không so sánh **giá** (loại D).
+
+**183.** Where does Sarah Broadhurst work?
+- (A) In Birmingham
+- (B) In London
+- (C) In Manchester
+- (D) ✓ In Southampton
+
+> 💡 Cần ghép **bài báo** với **e-mail**: e-mail viết `We are based a few buildings down from one of your suppliers, **Southern Clothing**`; bài báo cho biết đó là `**Southern Clothing of Southampton**` ⇒ cơ sở của bà nằm ở Southampton ⇒ (D). Chính bà cũng nói sẽ phải `**travel up to London**`, tức bà không ở London (loại B).
+
+**184.** What does Ms. Broadhurst mention in her e-mail?
+- (A) She plans to offer **bulk orders** to stores needing a supplier *(đơn hàng số lượng lớn)*.
+- (B) Her business has a Web site with product **descriptions** and prices *(phần mô tả)*.
+- (C) She will send some samples to Southern Clothing in the mail.
+- (D) ✓ Some of her items have a British theme.
+
+> 📘 Câu chi tiết trong e-mail. Đoạn 2: `we have a range of products with pictures of **characters from classic British books** engraved on them` ⇒ một số món mang chủ đề Anh ⇒ (D). Bà gửi kèm **catalog in**, không nhắc tới trang web (loại B); mẫu hàng bà sẽ **mang tận tay tới London** cho bà Blanc (loại C).
+
+**185.** What does Ms. Broadhurst offer to do for Ms. Blanc?
+- (A) Deliver some **housewares** from a store in Manchester *(đồ gia dụng)*
+- (B) **Draw up a tentative supply contract** *(soạn một hợp đồng cung ứng sơ bộ)*
+- (C) ✓ Bring **selections of merchandise** to London *(một số mặt hàng chọn lọc)*
+- (D) Do some **personalized engraving** services *(khắc theo yêu cầu riêng)*
+
+> 📘 Câu chi tiết. Đoạn 3: `I would be happy to **travel up to London next week with some samples to show you**` ⇒ bà đề nghị mang hàng mẫu tới London ⇒ (C). Bà mới chỉ **đề xuất bàn bạc** (`discussing this possibility further`), chưa soạn hợp đồng nào (loại B); Manchester là quê của hoạ sĩ John Stamp, không liên quan tới bà (loại A).
+
+### Questions 186–190 · e-mail, Web page, and review
+
+> To: Rica Foust <ricafoust@genmail.com>
+> From: Casey Whitmore <caseywhitmore@planetvoyage.com>
+> Subject: Review
+> Date: August 5
+>
+> Hi Rica,
+>
+> I have something you may be interested in. It relates to **solo travel** *(du lịch một mình)*, which has become **increasingly popular** lately *(ngày càng phổ biến)*. To **keep up with this growing trend** *(bắt kịp xu hướng đang lên này)*, we would like to **feature a review** of a cruise *(đăng một bài đánh giá)* that offers solo travel in our next **issue** *(số báo)*. Would you be willing to **take this assignment** *(nhận việc này)*? **Naturally** *(dĩ nhiên)*, we will **cover all expenses** *(chi trả toàn bộ chi phí)*. Since we are **pressed for time** *(đang gấp về thời gian)*, you will have to **sign up** as soon as possible *(đăng ký)*. Your review would be published in the September issue, so we would need the **first draft** by August 13 *(bản thảo đầu tiên)*.
+>
+> Let me know if this is possible.
+>
+> Casey Whitmore
+> **Managing editor** *(thư ký toà soạn)*
+> *Planet Voyage*
+
+> **Seabird Ocean Liners**
+>
+> HOME | TRIP PACKAGES | DESTINATIONS | CONTACT
+>
+> **For single travelers: 3 nights to Baja from LA**
+>
+> Enjoy a trip to the famous beaches of Baja **aboard** one of our ships *(trên (tàu))*. Relax in our **spacious**, comfortable, **smoke-free cabins** *(rộng rãi / cabin không khói thuốc)*. Spend your days by the pool or on our **sports deck** *(boong thể thao)*. Or if you prefer more luxury, book one of our **staterooms** *(phòng hạng sang trên tàu)*, which include **a wide array of amenities** *(hàng loạt tiện nghi)*. Each has a TV with hundreds of channels, computer with Wi-Fi, private shower, and **dressing table** *(bàn trang điểm)*. Prices for staterooms are based on **single occupancy** *(một người ở)* and rates are from $437/person.
+>
+> **Itinerary** *(hành trình)*
+>
+> | Day | Location | Arrives | Departs |
+> |---|---|---|---|
+> | 1 | Los Angeles | | 5:30 P.M. |
+> | 2 | Baja | 7:00 A.M. | |
+> | 3 | Baja | | 5:00 P.M. |
+> | 4 | Los Angeles | 8:00 A.M. | |
+>
+> **CLICK ON A SAIL DATE TO MAKE A RESERVATION**
+> Sails: Aug. 3, Aug. 7, Aug. 13, Aug. 16, Aug. 22
+
+> *Planet Voyage* — September Issue
+> **The Solo Traveler: Seabird Ocean Liners**
+> By Rica Foust
+>
+> Seabird Ocean Liners offers **getaways** from Los Angeles *(chuyến đi nghỉ ngắn)* to a variety of destinations on the West Coast of North America. I booked myself a three-night cruise from Los Angeles to Baja, and must say that the experience was **well worth the cost** of the trip *(rất đáng đồng tiền)*. The rooms were modern, comfortable, and spacious for a cruise ship. **Housekeeping was exceptional** *(việc dọn phòng cực kỳ tốt)* and my stateroom was always clean.
+>
+> Although smaller than some **cruise liners** *(tàu du lịch)*, the **vessel** I took *(con tàu)* **boasts a modest pool** *(có cả một bể bơi vừa phải)*, a restaurant, and a **recreational deck** *(boong giải trí)*. Because of the vessel's size, I found it easy to **get the crew's attention** *(gọi được thuỷ thủ đoàn)* and to get to know my **fellow passengers** *(bạn đồng hành)*. In fact, I made several new friends on the trip. If you're not **the outgoing type** *(kiểu người cởi mở)*, the crew organizes fun activities designed to help passengers relax around one another. Now, whether your goal as a solo traveler is to enjoy time alone or to meet new people, I think you will be satisfied with the **overall experience** *(trải nghiệm tổng thể)*. **Taken against the backdrop of** Baja's beautiful **scenery** *(đặt trên nền / phong cảnh)*, it was one I will remember **for years to come** *(trong nhiều năm về sau)*.
+
+> ⚠️ Lớp text OCR của bản scan dính chữ và cắt số ở phần đầu e-mail (`From: **CaseyWhitmore**`, `Date: **Augusts**`) và đọc `H` thành `Fl` ở lời chào (`**Fl**i Rica`); ảnh trang 285 cho thấy đúng là `Casey Whitmore`, `Date: **August 5**` và `Hi Rica`. Ngày **5 tháng 8** là dữ kiện quyết định của câu 187, nên rất cần đối chiếu.
+
+**186.** Why did Mr. Whitmore write to Ms. Foust?
+- (A) To complain about a trip he took
+- (B) To schedule an interview for an article
+- (C) ✓ To **assign an article** for a future publication *(giao viết một bài)*
+- (D) To ask her to attend a business meeting
+
+> 📘 Câu mục đích. E-mail: `we would like to **feature a review** of a cruise that offers solo travel **in our next issue**. Would you be willing to **take this assignment**?` ⇒ ông giao bà viết bài cho số báo tới ⇒ (C). Chính **bà Foust** mới là người sẽ đi chuyến du lịch đó (loại A).
+
+**187.** Which sail date did Ms. Foust most likely reserve?
+- (A) August 3
+- (B) ✓ August 7
+- (C) August 13
+- (D) August 16
+
+> 💡 Cần ghép **e-mail** với **trang web**: e-mail đề ngày `**August 5**` và yêu cầu nộp bản thảo `by **August 13**`; chuyến đi kéo dài `**3 nights**` (khởi hành ngày 1, về ngày 4). Trong các ngày `Aug. 3, Aug. 7, Aug. 13, Aug. 16, Aug. 22`, ngày **3/8 đã qua** trước khi bà nhận việc, còn 13/8 và 16/8 thì về **sau hạn nộp bài** ⇒ chỉ **7/8** là kịp (về ngày 10/8, còn ba ngày để viết) ⇒ (B).
+
+**188.** What is indicated about Seabird Ocean Liner?
+- (A) Its cruise ships were built earlier in the year.
+- (B) ✓ It accepts trip bookings online.
+- (C) It has added extra destinations.
+- (D) Its trips to Baja will be **discontinued** soon *(ngừng khai thác)*.
+
+> 📘 Câu chi tiết trong trang web. Dòng dưới bảng hành trình: `**CLICK ON A SAIL DATE TO MAKE A RESERVATION**` ⇒ khách đặt chỗ ngay trên mạng ⇒ (B). Trang web không nói gì về năm đóng tàu, việc thêm điểm đến hay ngừng tuyến.
+
+**189.** In the review, the word "exceptional" in paragraph 1, line 4, is closest in meaning to
+- (A) ✓ **superb** *(tuyệt hảo)*
+- (B) **abnormal** *(bất thường)*
+- (C) **crucial** *(then chốt)*
+- (D) **expected** *(như dự kiến)*
+
+> 📘 Câu từ vựng đồng nghĩa. Trong câu `**Housekeeping was exceptional** and my stateroom was always clean`, `exceptional` mang nghĩa **xuất sắc, tuyệt vời** ⇒ `superb` ⇒ (A). (B) là nghĩa "khác thường" theo hướng trung tính/xấu, không hợp với lời khen; (D) thì ngược hẳn — ý ở đây là **vượt mong đợi**.
+
+**190.** What can be inferred about Ms. Foust?
+- (A) She had to pay extra for some activities.
+- (B) Her room was smaller than those of fellow passengers.
+- (C) She plans on returning to Baja on another cruise.
+- (D) ✓ Her room was **equipped with** a television *(được trang bị)*.
+
+> 💡 Cần ghép **trang web** với **bài đánh giá**: bài đánh giá viết `my **stateroom** was always clean`; trang web mô tả `book one of our **staterooms** ... **Each has a TV** with hundreds of channels, computer with Wi-Fi, private shower, and dressing table` ⇒ phòng của bà có TV ⇒ (D). Toà soạn `will **cover all expenses**` (loại A); các hoạt động do thuỷ thủ đoàn tổ chức và bài không nói phải trả thêm tiền; bà chỉ nói sẽ **nhớ mãi** chuyến đi, không nói sẽ quay lại (loại C).
+
+### Questions 191–195 · advertisement, order form, and e-mail
+
+> Today only! Our special offer will **expire** in `0` days, `17` hours, and `11` minutes *(hết hạn)*.
+>
+> **BRILLIANT TECHWARE** is offering Flash-805 **distance recorders** at 40% off the regular price *(máy ghi âm từ xa)*.
+>
+> The device's **onboard microphone** *(micrô gắn sẵn)* is **outstanding at picking up any sound** *(cực giỏi trong việc thu mọi âm thanh)* and **reproducing it faithfully** *(tái tạo trung thực)*. Plus, our **patented waveform analyzer technology** *(công nghệ phân tích dạng sóng đã được cấp bằng sáng chế)* reduces **distortion** automatically *(hiện tượng méo tiếng)*. This amazing recorder lets you remove **unwanted sounds** *(âm thanh không mong muốn)* such as traffic noise and **background chatter** *(tiếng nói chuyện xung quanh)* so that you only **capture** the sounds you want and need *(thu được)*. It even has 50 percent more **battery life** than our previous models *(thời lượng pin)*. The Flash-805 is a truly **versatile tool** *(công cụ đa năng)* with multiple **applications** for students, researchers, and reporters *(ứng dụng, công dụng)*.
+>
+> Brilliant Techware provides free delivery on orders of $40 or above, **except for items on promotion** *(trừ các mặt hàng đang khuyến mãi)*. For orders below $40, we charge $5 for delivery within North America and $10 for deliveries to most other parts of the world. For **expedited shipping** *(giao hàng nhanh)*, there is a $5 **surcharge** *(phụ phí)*.
+
+> **Order Form**
+>
+> BRILLIANT TECHWARE
+> 755 Orange Park
+> Miami, FL 32003
+> service@briltechware.com · www.brillianttechware.com
+>
+> Customer Name: Chris Altman
+> Address: 11 Cornish Hill, Hesbitt, Bournemouth, UK
+> E-mail address: caltman@ukmail.com
+> Phone no.: 555-9100
+> Date: 10/17 11:23 a.m.
+> ORDER No.: 7891000
+>
+> | Product Code | Description | Price/unit | Quantity | Sub-total |
+> |---|---|---|---|---|
+> | 3101805 | Flash-805 distance recorder | $145.00 | 1 unit | $145.00 |
+> | | **Less 40% discount** *(trừ đi khoản giảm giá 40%)* | | | ($58.00) |
+> | | **Subtotal** | | | $87.00 |
+> | | **Shipping** | | | $10.00 |
+> | | **Surcharge** | | | $5.00 |
+> | | **TOTAL** | | | **$102.00** |
+>
+> Each item can be discounted **once only** *(chỉ một lần duy nhất)*. Your purchase will appear on your **credit card bank statement** *(sao kê thẻ tín dụng)* as BrilliantTech. All orders will ship from 3-4 **business days** of purchase *(ngày làm việc)*. **Cancellations** may be made within 24 hours of a purchase *(việc huỷ đơn)*. Any **customs taxes** must be paid by the customer *(thuế hải quan)*.
+
+> To: service@briltechware.com
+> From: caltman@ukmail.com
+> Subject: Inquiry
+> Date: Thursday, October 17
+>
+> To Whom It May Concern,
+>
+> I ordered a Flash-805 distance recorder on your Web site this morning. My order number is 7891000. I told my **coworker** about my purchase *(đồng nghiệp)*, and she is also interested in ordering the same item since you offer the lowest price she has found on the Web. In addition, she was **intrigued by** its ability to reduce distortion automatically *(bị cuốn hút bởi)*. I was wondering whether I could simply **add her recorder to my current order** *(thêm máy của cô ấy vào đơn hàng hiện tại của tôi)*. If so, would there be an **additional fee** to do that *(khoản phí thêm)*? We just wanted to **save on shipping** *(tiết kiệm tiền vận chuyển)*. Even if you cannot change my order, my friend will **go ahead with the purchase** anyway *(vẫn cứ mua)*.
+>
+> I hope to hear from you today so that my friend can **take advantage of this limited-time offer** *(tận dụng ưu đãi có thời hạn này)*.
+>
+> Sincerely,
+> Chris Altman
+
+> ⚠️ Ba con số của **đồng hồ đếm ngược** trong quảng cáo được in trong các ô đồ hoạ nên lớp text OCR đọc thành `[o]days, [13hours, and UTIminutes`; ảnh trang 287 cho thấy đúng là `**0** days, **17** hours, and **11** minutes`. Lớp text cũng đọc `I was wondering` thành `**1** was wondering`, chèn một ký tự thừa vào đầu đoạn `**^**Brilliant Techware provides ...` và đọc dòng đầu trang thành `Questions 191**=**195`.
+
+**191.** What is NOT mentioned about the Flash-805 distance recorder?
+- (A) ✓ It can be **assembled manually** by the user *(lắp ráp bằng tay)*.
+- (B) It accurately **duplicates the original sound** *(tái tạo đúng âm thanh gốc)*.
+- (C) Its battery lasts longer than older models.
+- (D) It is capable of deleting **undesired noise** *(tạp âm không mong muốn)*.
+
+> 📘 Câu NOT. (B) khớp `outstanding at picking up any sound and **reproducing it faithfully**`; (C) khớp `50 percent **more battery life** than our previous models`; (D) khớp `lets you **remove unwanted sounds** such as traffic noise and background chatter`. Quảng cáo không hề nói máy phải tự lắp ⇒ (A).
+
+**192.** What must customers do to take advantage of a special offer?
+- (A) Download an online **coupon** *(phiếu giảm giá)*
+- (B) Purchase a quantity of two or more items
+- (C) ✓ Place an order within a specific amount of time
+- (D) Provide **proof of residence** within Bournemouth *(giấy tờ chứng minh nơi cư trú)*
+
+> 📘 Câu chi tiết trong quảng cáo. Dòng đầu: `**Today only!** Our special offer will **expire in 0 days, 17 hours, and 11 minutes**` ⇒ phải đặt hàng trong khoảng thời gian đó ⇒ (C). Ông Altman chỉ mua `**1 unit**` mà vẫn được giảm 40% (loại B); Bournemouth chỉ là địa chỉ của ông (loại D).
+
+**193.** What is suggested about Mr. Altman?
+- (A) He will have three days to cancel his order.
+- (B) He wants to use another delivery company.
+- (C) ✓ He requested **expedited delivery** *(giao hàng nhanh)*.
+- (D) He is working on a **research project** *(dự án nghiên cứu)*.
+
+> 💡 Cần ghép **quảng cáo** với **phiếu đặt hàng**: quảng cáo ghi `For **expedited shipping**, there is a **$5 surcharge**`; phiếu của ông có đúng dòng `**Surcharge $5.00**` ⇒ ông đã chọn giao nhanh ⇒ (C). Đơn chỉ được huỷ `within **24 hours**`, không phải ba ngày (loại A) — con số `3-4 business days` là thời gian **gửi hàng đi**.
+
+**194.** What is the purpose of the e-mail?
+- (A) To complain about the high **shipping cost** *(phí vận chuyển)*
+- (B) ✓ To **inquire about changing an order** *(hỏi về việc thay đổi đơn hàng)*
+- (C) To request a **cancellation** of a recent purchase *(việc huỷ)*
+- (D) To point out a **defect** in a product *(lỗi sản phẩm)*
+
+> 📘 Câu mục đích. E-mail: `I was wondering whether I could simply **add her recorder to my current order**. If so, would there be an additional fee to do that?` ⇒ ông hỏi về việc sửa đơn hàng ⇒ (B). Ông chỉ muốn `save on shipping` chứ không **than phiền** về mức phí (loại A); ông không hề đòi huỷ đơn (loại C).
+
+**195.** What is true about Mr. Altman's colleague?
+- (A) She used to own a Brilliant Techware product.
+- (B) She has written to customer service several times.
+- (C) She read a positive **online review** about Brilliant Techware *(bài đánh giá trên mạng)*.
+- (D) ✓ She is interested in the Flash-805's **patented feature** *(tính năng đã được cấp bằng sáng chế)*.
+
+> 💡 Cần ghép **quảng cáo** với **e-mail**: e-mail viết `she was **intrigued by its ability to reduce distortion automatically**`; quảng cáo cho biết chính tính năng đó đến từ `our **patented** waveform analyzer technology` ⇒ (D). Cô mới chỉ so giá trên mạng (`the lowest price she has found on the Web`), không nói tới bài đánh giá nào (loại C); người viết cho bộ phận dịch vụ khách hàng là **ông Altman** (loại B).
+
+### Questions 196–200 · announcement, form, and message
+
+> **Enter O-Deli's "Name Our Sandwich" Competition and Win $1,000!**
+>
+> O-Deli's will be **introducing** its newest sandwich **sensation** on February 1 *(giới thiệu / món gây sốt)*! This delicious combination of **toasted rye bread** *(bánh mì lúa mạch đen nướng)*, **roasted turkey** *(gà tây quay)*, spicy sauce, **melted cheddar cheese** *(phô mai cheddar chảy)*, and fresh **lettuce** and onions *(xà lách)* still doesn't have a name! And **that's where you come in** *(đó là lúc bạn vào cuộc)*. Customers can **head to** any O-Deli's **branch** *(tới / chi nhánh)* in New York State and **try out** this incredible new menu item *(dùng thử)*. Taste it, **come up with** a name for it *(nghĩ ra)*, and **submit an entrance form** *(nộp phiếu dự thi)* at any one of our sixteen branches. The winner not only will receive a **cash prize** of $1,000 *(giải thưởng tiền mặt)*, but all three **finalists** *(người vào chung kết)* will receive a **voucher** for a weekly **complimentary** sandwich *(phiếu / miễn phí)* at any O-Deli's location for one year! And **upon submission of** an application form *(khi nộp)*, everyone entering will also be given a **coupon for a free medium size beverage** *(phiếu đổi một đồ uống cỡ vừa miễn phí)* at our **establishments** *(cửa hàng)*.
+
+> **O-Deli's "Name Our Sandwich" Competition: Application form**
+>
+> Name: Cheryl Rosen
+> E-mail: cherposen@anypost.com
+> Mobile: 555-0293
+> Date of Application: February 18
+> **Location of Outlet** *(cửa hàng nộp phiếu)*: 45th Avenue, New York City
+>
+> **Describe the sandwich to us in your own words:**
+> This **delightful** sandwich *(thú vị, đáng yêu)* makes a spicy, fresh **addition to** any lunch *(món thêm vào)*. The **tangy cheese complements the meat** *(phô mai chua nhẹ tôn vị cho thịt)*, and its $4.89 price is **a great value** *(rất đáng đồng tiền)*.
+>
+> **Please give us your suggestion for a sandwich name (5 words or less):**
+> Red Hot Turkey Sandwich
+>
+> Three finalists will be **notified by text message** *(được báo qua tin nhắn)* and receive **invitations** to a special **promotional event** *(thư mời / sự kiện quảng bá)* to celebrate the **launch** of the new sandwich *(việc ra mắt)*. The event will be held on February 28, when the winner will be announced.
+
+> FROM: O-Deli's (555-2737)
+> TO: Ray Colsen (555-0320), Amos Vaughn (555-3928), Fiona Henry (555-6554)
+>
+> Hello finalists! Thank you all for **confirming your attendance** to the event *(xác nhận sẽ tham dự)*. Unfortunately, there has been a change we need to **notify you of** *(báo cho các bạn biết)*. We had planned to hold the event at our 59th Street location, but that branch has been **experiencing some electrical problems** *(gặp một số trục trặc về điện)*. So, we will announce the winner at our 45th Avenue branch instead. Please confirm as soon as possible whether or not you can still attend. If you need assistance with **transportation** to the new site *(việc đi lại)*, let us know and we can **make arrangements** for you *(thu xếp)*. We apologize for the **inconvenience** *(sự bất tiện)* and hope to see you all there.
+
+> ⚠️ Địa chỉ e-mail in trong phiếu là `**cherposen**@anypost.com` trong khi người nộp tên là **Cheryl Rosen** (lẽ ra là `cherrosen`) — ảnh trang 289 xác nhận đây là **lỗi của chính bản in**, nên được giữ nguyên. Lớp text OCR cũng nuốt dấu cách ở hai chỗ (`(555-0320),AmosVaughn`, `arrangements for you.We apologize`) và đọc dấu ngoặc kép đóng của tiêu đề thành hai dấu nháy đơn (`Sandwich''`); tất cả đã được sửa.
+
+**196.** What is the announcement mainly about?
+- (A) A new **franchise branch** *(chi nhánh nhượng quyền)*
+- (B) ✓ A **naming contest** *(cuộc thi đặt tên)*
+- (C) A **discounted** menu item *(được giảm giá)*
+- (D) A cooking competition
+
+> 📘 Câu chủ đề. Tiêu đề `Enter O-Deli's **"Name Our Sandwich" Competition**` và nội dung: món mới `still doesn't have a name`, khách hãy `**come up with a name for it**, and submit an entrance form` ⇒ đây là cuộc thi đặt tên ⇒ (B). Khách chỉ **nếm và đặt tên**, không hề nấu (loại D).
+
+**197.** What is indicated about O-Deli's on the announcement?
+- (A) ✓ It **operates multiple locations within a state** *(có nhiều cửa hàng trong cùng một bang)*.
+- (B) It recently announced plans to open new branches.
+- (C) It is currently not open for business.
+- (D) It regularly **sponsors** monthly competitions *(tài trợ)*.
+
+> 📘 Câu chi tiết. Thông báo mời khách tới `any O-Deli's branch in **New York State**` và nộp phiếu `at any one of our **sixteen branches**` ⇒ chuỗi có nhiều cửa hàng trong bang ⇒ (A). Các cửa hàng đang hoạt động bình thường (loại C); thông báo không nói tới việc mở thêm chi nhánh hay các cuộc thi hằng tháng (loại B, D).
+
+**198.** What did Ms. Rosen probably receive?
+- (A) A **personalized** sandwich *(làm riêng theo yêu cầu)*
+- (B) A cash prize for a contest
+- (C) ✓ A **coupon for a complimentary drink** *(phiếu đổi đồ uống miễn phí)*
+- (D) A list of new menu items
+
+> 💡 Cần ghép **thông báo** với **phiếu dự thi**: thông báo hứa `**upon submission of an application form, everyone entering will also be given a coupon for a free medium size beverage**`; bà Rosen đã điền và nộp phiếu (`Date of Application: February 18`) ⇒ bà nhận được phiếu đồ uống ⇒ (C). Tên bà không có trong danh sách ba người vào chung kết ở tin nhắn, nên bà không nhận giải tiền (loại B).
+
+**199.** What can be inferred about Mr. Vaughn?
+- (A) He did not get an **invitation letter** sent in February *(thư mời)*.
+- (B) ✓ He agreed to attend an event at 59th Street on February 28.
+- (C) He is a **frequent diner** at O-Deli's restaurants *(khách ăn thường xuyên)*.
+- (D) He sent a message requesting **special assistance** *(hỗ trợ đặc biệt)*.
+
+> 💡 Cần ghép **phiếu dự thi** với **tin nhắn**: phiếu ghi ba người vào chung kết `will be notified by text message and **receive invitations** to a special promotional event ... **held on February 28**`; tin nhắn gửi cho ba người, trong đó có `**Amos Vaughn**`, và mở đầu bằng `Thank you all for **confirming your attendance**`, đồng thời cho biết `We **had planned** to hold the event at our **59th Street** location` ⇒ ông đã nhận lời dự sự kiện ngày 28/2 ở địa điểm 59th Street ⇒ (B). Ông **có** nhận được thư mời (loại A), và việc hỗ trợ đi lại mới chỉ được **đề nghị**, chưa ai xin (loại D).
+
+**200.** Why has O-Deli's changed its plans for an event?
+- (A) An important **executive** will be unable to attend *(lãnh đạo)*.
+- (B) A space is not large enough for participants.
+- (C) ✓ A **technical concern** has occurred at a **venue** *(sự cố kỹ thuật / địa điểm)*.
+- (D) A **transport provider** became unavailable *(đơn vị vận chuyển)*.
+
+> 📘 Câu lý do. Tin nhắn: `We had planned to hold the event at our 59th Street location, but that branch has been **experiencing some electrical problems**. So, we will announce the winner at our 45th Avenue branch instead` ⇒ địa điểm cũ gặp sự cố về điện ⇒ (C). Vấn đề là **điện**, không phải sức chứa (loại B); công ty vẫn sẵn sàng `make arrangements` cho việc đi lại (loại D).
+
 ---
 
 ## PHỤ LỤC — Đoạn văn PART 6 (nguyên văn, theo test)
@@ -13481,3 +14910,60 @@ Mỗi đoạn PART 6 được in lại đầy đủ ở đây một lần, vì k
 > Gainesburg's one **existing** fitness club *(đang có)* was **(145)** ------- last year after 30 years of use. This left the area without any **functional leisure facilities** at all *(cơ sở giải trí còn hoạt động được)*, and residents had been **pushing for** a sports complex **ever since** *(vận động đòi / kể từ đó)*.
 >
 > **(146)** -------. "Having a fitness center will make **athletic resources readily accessible** to a wider range of people *(nguồn lực thể thao dễ tiếp cận)*. It will also help **unite the community** *(gắn kết cộng đồng)* in a fun and healthy way," said **council member** Claire Faukes *(thành viên hội đồng thành phố)*.
+
+### TEST 10 · Đoạn 1 — advertisement (Q131–134)
+
+> Do you find **(131)** ------- your home **more trouble than it's worth** *(phiền hơn cả cái lợi nó mang lại)*? If so, call Wimberley's—the most **trusted housekeeping service** in Kent *(dịch vụ dọn nhà đáng tin cậy nhất)*. Since opening five years ago, we have **consistently received top ratings** *(luôn nhận được đánh giá cao nhất)* from our customers.
+>
+> **(132)** -------. Our **crew** *(tổ, đội nhân viên)* takes care of window and floor washing, **vacuuming**, and **tile polishing** *(hút bụi / đánh bóng gạch lát)*. We use **state-of-the-art equipment** *(thiết bị tối tân)* to **get rid of** the **odors**, dirt, and **stains** *(loại bỏ / mùi hôi / vết bẩn)* you've been **struggling with** *(vật lộn với)*. **Furthermore** *(hơn nữa)*, if you need to remove large **(133)** ------- items such as furniture or **appliances** *(đồ gia dụng)*, the Wimberley's staff can do this for a small **additional fee** *(phụ phí)*.
+>
+> We **(134)** ------- your home at whatever time is most **convenient** for you *(thuận tiện)*! So, if you're interested, please call us at 555-9190.
+
+### TEST 10 · Đoạn 2 — e-mail (Q135–138)
+
+> To: Talia Moroz <talia.moroz@homemail.com>
+> From: Miles Kaufmann <m.kaufmann@coldmaker.com>
+> Date: July 31
+> Subject: Your request
+>
+> Dear Ms. Moroz,
+>
+> I am writing **in reply to your inquiry** about *(để trả lời thắc mắc của bà về)* the Coldmaker refrigerator you purchased recently. In your e-mail, you stated that the **compartment** does not close properly *(ngăn tủ)*. **(135)** ------- issue was **brought up** by other customers in the past *(được nêu ra)*. Our **technicians** *(kỹ thuật viên)* have **since** discovered what the problem is *(từ đó đến nay)*. **(136)** -------.
+>
+> **As indicated in the manual** *(như đã nêu trong sách hướng dẫn)*, to **(137)** ------- the door, you must push it forward until a **clicking sound** is heard *(tiếng "cạch")*. If you simply close the compartment without holding the **tab** *(cái chốt, tai gạt)*, the door will not **remain closed** *(vẫn đóng chặt)*.
+>
+> Could you please try this method first? If you continue to have a problem, please contact a **service center** **(138)** ------- on our Web site *(trung tâm bảo hành)*.
+>
+> Thank you for writing, and I hope I have **been of service to you** *(giúp ích được cho bà)*.
+>
+> Sincerely,
+> Miles Kaufmann
+> **Warranty service agent** *(nhân viên dịch vụ bảo hành)*
+
+### TEST 10 · Đoạn 3 — e-mail (Q139–142)
+
+> To: Henry Chan <h.chan@followmail.com>
+> From: Gleeson Consulting <hr@gleeson.com>
+> Date: March 14
+> Subject: Re: Application for project manager position
+>
+> Dear Mr. Chan,
+>
+> We received your **application** for project manager *(đơn ứng tuyển)* at Gleeson Consulting. The company had a large number of **applicants** *(người nộp đơn)*, so **(139)** ------- for the position was rather strong. I therefore **regret to inform you** *(rất tiếc phải báo với ông)* that you have not been **shortlisted** for this **post** *(vào danh sách rút gọn / vị trí công việc)*. **(140)** -------, we have closely examined your **qualifications** *(năng lực, bằng cấp)* and consider you **eligible for** the project assistant position *(đủ điều kiện cho)*. **(141)** -------.
+>
+> Interviews for this **vacancy** *(vị trí còn trống)* will take place on March 20 from 10 A.M. to 3 P.M. Please **get in touch with** me *(liên hệ với)* to let me know if you are interested in the job and can come in between these times. If you are not **(142)** -------, perhaps we can **arrange a date** *(hẹn một ngày)* that is more convenient for you.
+>
+> Yours truly,
+> Jacqueline Hart
+> Human resources manager
+> Gleeson Consulting
+
+### TEST 10 · Đoạn 4 — announcement (Q143–146)
+
+> **CALL FOR PAPERS** *(lời mời gửi bài tham luận)*
+>
+> The Department of **Sociology** at the University of Northern Wisconsin *(xã hội học)* **(143)** ------- an **academic conference** on **social transformation** *(hội thảo khoa học / chuyển biến xã hội)* in the Midwestern United States from June 7 to 9. **(144)** -------. Interested professors and **lecturers** *(giảng viên)* are asked to submit their **abstracts** before May 1 *(bản tóm tắt tham luận)*.
+>
+> You will be sent a **notification** from the department *(thông báo)* if your **(145)** ------- is selected. Once you receive this notice, you will be required to submit the **full paper for review and approval** *(bài viết đầy đủ để xét duyệt)*.
+>
+> **Submissions** are welcome from all universities *(bài gửi dự)*, and we look forward to seeing **a range of topics** *(nhiều đề tài đa dạng)*. **(146)** ------- the conference's **focus on** the Midwest *(trọng tâm là)*, we welcome work from other regions **as long as** it relates to the needs of the **target area** *(miễn là / khu vực trọng tâm)*.
